@@ -10,7 +10,7 @@ import XXXXComponent from './index'
 import { ComponentDecorator } from '../../storybook/decorators'
 
 storiesOf('XXXXComponent', module)
-  .addDecorator((getStory: RenderFunction) => (
+  .addDecorator((getStory) => (
     <ComponentDecorator backgroundColor="#F0F0F0">{getStory()}</ComponentDecorator>
   ))
   .add('with image', () => {

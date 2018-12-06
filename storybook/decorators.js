@@ -5,9 +5,7 @@ import { StyleProvider, Container, Content } from 'native-base'
 import { Provider } from 'react-redux'
 import { combineReducers, compose, applyMiddleware, createStore } from 'redux'
 import { reducer as formReducer } from 'redux-form'
-
-import getTheme from '../native-base-theme/components'
-import material from '../native-base-theme/variables/material'
+//import { IntlProvider, } from 'react-intl'
 
 /**
  * Decorator to use in a story for a components. It applies the styles and places the component
@@ -15,12 +13,10 @@ import material from '../native-base-theme/variables/material'
  * @param {*} props
  */
 export const ComponentDecorator = (props) => (
-  <StyleProvider style={getTheme(material)}>
-    <IntlProvider locale="en">
-      <Container style={{ backgroundColor: props.backgroundColor || 'white' }}>
-        <Content padder>{props.children}</Content>
-      </Container>
-    </IntlProvider>
+  <StyleProvider>
+    <Container style={{ backgroundColor: props.backgroundColor || 'white' }}>
+      <Content padder>{props.children}</Content>
+    </Container>
   </StyleProvider>
 )
 
@@ -30,7 +26,7 @@ export const ComponentDecorator = (props) => (
  * @param {*} props
  */
 export const ScreenDecorator = (props) => (
-  <StyleProvider style={getTheme(material)}>
+  <StyleProvider>
     <Container style={{ backgroundColor: props.backgroundColor || 'white' }}>
       <Content>{props.children}</Content>
     </Container>
@@ -58,14 +54,13 @@ const buildFormDecoratorStore = () => {
 
 const formDecoratorStore = buildFormDecoratorStore()
 
-
 /**
  * Decorator to use in a story for a form component (one using Redux Form).
  * @param {*} props
  */
 export const FormDecorator = (props) => (
   <Provider store={formDecoratorStore}>
-    <StyleProvider style={getTheme(material)}>
+    <StyleProvider>
       <Container style={{ backgroundColor: props.backgroundColor || 'white' }}>
         <Content padder>{props.children}</Content>
       </Container>

@@ -7,7 +7,7 @@ All components are stored and organized here
 import React from 'react'
 import { storiesOf, RenderFunction } from '@storybook/react-native'
 import XXXXComponent from './index'
-import { ComponentDecorator } from '../../../storybook/decorators'
+import { ComponentDecorator } from '../../storybook/decorators'
 
 storiesOf('XXXXComponent', module)
   .addDecorator((getStory: RenderFunction) => (

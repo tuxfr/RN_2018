@@ -4,6 +4,7 @@ import React, {
 } from 'react'
 import {
   View,
+  Text,
 } from 'react-native'
 
 /**
@@ -17,7 +18,20 @@ import {
  */
 class SimpleApp extends Component {
   render() {
-    return (<View/>
+    return (<View style={
+        {
+          flexDirection: 'column',
+          flex: 1,
+          flexGrow: 1,
+          alignItems: 'center',
+          justifyContent: 'center',
+          height: '100%'
+        }
+      } >
+      <Text style={{
+        fontSize: 24,
+      }}> Hello world! </Text>
+      </View>
     )
   }
 }

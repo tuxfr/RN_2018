@@ -9,14 +9,47 @@ const item = api.searchOne({
   release_title: 'nevermind',
   artist: 'nirvana',
 })
-debugger
+
+const { data: { thumb: thumbUrl, genre, style, title, country, cover_image: coverArtUrl, year, }} = item
+
 storiesOf('SearchListItem', module)
   .addDecorator((getStory) => (
     <ComponentDecorator backgroundColor="#F0F0F0">{getStory()}</ComponentDecorator>
   ))
-  .add('with image', () => {
+  .add('with thumb', () => {
     return (
-      <SearchListItem/>
+      <SearchListItem
+        title={title}
+        year={year}
+        genre={genre}
+        style={style}
+        country={country}
+        thumbUrl={thumbUrl}
+        coverArtUrl={coverArtUrl}
+      />
+    )
+  })
+  .add('without thumb', () => {
+    return (
+      <SearchListItem
+        title={title}
+        year={year}
+        genre={genre}
+        style={style}
+        country={country}
+        coverArtUrl={coverArtUrl}
+      />
+    )
+  })
+  .add('without year & style', () => {
+    return (
+      <SearchListItem
+        title={title}
+        genre={genre}
+        country={country}
+        thumbUrl={thumbUrl}
+        coverArtUrl={coverArtUrl}
+      />
     )
   })
 

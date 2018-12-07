@@ -10,7 +10,7 @@ const item = api.searchOne({
   artist: 'nirvana',
 })
 
-const { data: { thumb: thumbUrl, genre, style, title, country, cover_image: coverArtUrl, year, }} = item
+const { data: { thumb: thumbUrl, genre, style, title, country, cover_image: coverArtUrl, year, } } = item
 
 storiesOf('SearchListItem', module)
   .addDecorator((getStory) => (
@@ -25,7 +25,6 @@ storiesOf('SearchListItem', module)
         style={style}
         country={country}
         thumbUrl={thumbUrl}
-        coverArtUrl={coverArtUrl}
       />
     )
   })

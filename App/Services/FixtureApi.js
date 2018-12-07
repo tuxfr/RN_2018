@@ -1,24 +1,18 @@
 export default {
+
   // Functions return fixtures
-  getRoot: () => {
+  search: (searchCriteria) => {
     return {
       ok: true,
-      data: require('../Fixtures/root.json')
+      data: require('../Fixtures/search-artist-nirvana-per_page-100')
     }
   },
-  getRate: () => {
+
+  searchOne: (searchCriteria) => {
     return {
       ok: true,
-      data: require('../Fixtures/rateLimit.json')
+      data: require('../Fixtures/search-artist-nirvana-nervermind')
     }
   },
-  getUser: (username) => {
-    // This fixture only supports gantman or else returns skellock
-    const gantmanData = require('../Fixtures/gantman.json')
-    const skellockData = require('../Fixtures/skellock.json')
-    return {
-      ok: true,
-      data: username.toLowerCase() === 'gantman' ? gantmanData : skellockData
-    }
-  }
+
 }

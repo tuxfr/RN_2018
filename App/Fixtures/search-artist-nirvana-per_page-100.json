@@ -1,0 +1,4255 @@
+{
+  "pagination": {
+    "per_page": 100,
+    "items": 4258,
+    "page": 1,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?per_page=100&token=DzRfeMtIfYsIbTgYKwMuRMReBOjRJEwYZDRoYIKF&page=43&artist=nirvana",
+      "next": "https://api.discogs.com/database/search?per_page=100&token=DzRfeMtIfYsIbTgYKwMuRMReBOjRJEwYZDRoYIKF&page=2&artist=nirvana"
+    },
+    "pages": 43
+  },
+  "results": [
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 85,
+        "want": 71
+      },
+      "catno": "FDI 90721",
+      "year": "1990",
+      "id": 708018,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/8USczwZye96oqFk_N1D1-kp3Q9E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2008505-1258279549.jpeg.jpg",
+      "title": "Nirvana - Oi! Kinnock Give",
+      "label": [
+        "La Force D'Impact Records Manufactures"
+      ],
+      "master_id": 708018,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Unofficial Release"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/708018",
+      "genre": [
+        "Rock"
+      ],
+      "country": "US",
+      "uri": "/Nirvana-Oi-Kinnock-Give/master/708018",
+      "cover_image": "https://img.discogs.com/cTCQ0FE6b3AjS4z7ok__31485hw=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2008505-1258279549.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/708018"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 78,
+        "want": 19
+      },
+      "catno": "PARA046PD",
+      "year": "2016",
+      "id": 1156786,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/7S9ssxxt42DXmudNxpPekXTJGWE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9243586-1477244699-4712.jpeg.jpg",
+      "title": "Nirvana - Down On A Saturday Night",
+      "label": [
+        "Parachute Recording Company",
+        "Parachute Recording Company",
+        "The Palace, Melbourne",
+        "Saturday Night Live",
+        "GZ Media"
+      ],
+      "master_id": 1156786,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Picture Disc",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "8 03341 50970 2",
+        "146923E1/A",
+        "146923E2/A"
+      ],
+      "master_url": "https://api.discogs.com/masters/1156786",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Europe",
+      "uri": "/Nirvana-Down-On-A-Saturday-Night/master/1156786",
+      "cover_image": "https://img.discogs.com/fKjKNmP_lbXT5zvO28bODHCDB_E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9243586-1477244699-4712.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/1156786"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 31,
+        "want": 47
+      },
+      "catno": "SC-NR-003 / SC-NR-004",
+      "year": "1996",
+      "id": 790572,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/MK_-kU4dFbMMsrJJ08CHGyXm8Mo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3286716-1414455967-2409.jpeg.jpg",
+      "title": "Nirvana - The Sermon On The Mount",
+      "label": [
+        "Small Clone",
+        "Aragon, Chicago, Illinois"
+      ],
+      "master_id": 790572,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "SC-NR-003 69925X IFPI L601",
+        "SC-NR-004 501976X IFPI L601",
+        "IFPI L601"
+      ],
+      "master_url": "https://api.discogs.com/masters/790572",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Japan",
+      "uri": "/Nirvana-The-Sermon-On-The-Mount/master/790572",
+      "cover_image": "https://img.discogs.com/0cfhG5VRBkA8ell6avQUOtl8sLs=/fit-in/472x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3286716-1414455967-2409.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/790572"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 44,
+        "want": 16
+      },
+      "catno": "G-53 209",
+      "year": "1993",
+      "id": 561032,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/_yQtOBhtIYqUOf1SDJD_MtR91fw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2261852-1305470493.jpeg.jpg",
+      "title": "Nirvana - Palladium",
+      "label": [
+        "CDM",
+        "CDM"
+      ],
+      "master_id": 561032,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "5 450162 532096",
+        "5450162532096",
+        "GEMA",
+        "ADD",
+        "G 53209"
+      ],
+      "master_url": "https://api.discogs.com/masters/561032",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Unknown",
+      "uri": "/Nirvana-Palladium/master/561032",
+      "cover_image": "https://img.discogs.com/vAlK8JLJsuhSM3aWHSu7bUUKG7I=/fit-in/350x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2261852-1305470493.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/561032"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 264,
+        "want": 616
+      },
+      "catno": "INTR-10853-2",
+      "year": "2002",
+      "id": 20825,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/B5xFXHeZjvyATPwaimZtviyQd4M=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1002797-1461314435-4716.jpeg.jpg",
+      "title": "Nirvana - You Know You're Right",
+      "label": [
+        "Geffen Records",
+        "Geffen Records",
+        "Robert Lang Studios",
+        "The End Of Music",
+        "EMI Virgin Songs, Inc."
+      ],
+      "master_id": 20825,
+      "type": "master",
+      "format": [
+        "CDr",
+        "Single",
+        "Promo"
+      ],
+      "barcode": [
+        "R8 - I I V",
+        "P3324186820602 PRINCD",
+        "INTR-10853 02 5",
+        "MADE IN THE UK BY UNIVERSAL M&K"
+      ],
+      "master_url": "https://api.discogs.com/masters/20825",
+      "genre": [
+        "Rock"
+      ],
+      "country": "US",
+      "uri": "/Nirvana-You-Know-Youre-Right/master/20825",
+      "cover_image": "https://img.discogs.com/DEmUo7TfkWLkJ4Y9BvNjcLkMjvY=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1002797-1461314435-4716.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/20825"
+    },
+    {
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/Mf64S4YPwVXabHzjBXTAjVnVz6M=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-640216-1264270824.jpeg.jpg",
+      "uri": "/Nirvana-The-Ghost-Of-SeattleTV-EP-Volume-One/master/1230342",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "Unofficial Release"
+      ],
+      "country": "Unknown",
+      "barcode": [
+        "SPIRIT 7/001-A\u2081",
+        "SPIRIT 7/001-B\u2081"
+      ],
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "master_url": "https://api.discogs.com/masters/1230342",
+      "label": [
+        "Spirit"
+      ],
+      "cover_image": "https://img.discogs.com/Ii8Xwg58J2QrG3nnPJriI5FmJ6Y=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640216-1264270824.jpeg.jpg",
+      "catno": "001",
+      "community": {
+        "have": 77,
+        "want": 27
+      },
+      "genre": [
+        "Rock"
+      ],
+      "title": "Nirvana - The Ghost Of Seattle, The TV EP Volume One",
+      "resource_url": "https://api.discogs.com/masters/1230342",
+      "master_id": 1230342,
+      "type": "master",
+      "id": 1230342
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 159,
+        "want": 6
+      },
+      "catno": "SAM 7008",
+      "year": "1995",
+      "id": 1326856,
+      "style": [
+        "Interview"
+      ],
+      "thumb": "https://img.discogs.com/PPQZUn_Qy5leD0SaWfNzbMdLL1o=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1449213-1467788457-3830.jpeg.jpg",
+      "title": "Nirvana - Fully Illustrated Book & Interview Disc",
+      "label": [
+        "Sound And Media Limited",
+        "Sound And Media Limited",
+        "Sound And Media Limited",
+        "Carlton Books",
+        "Disctronics S"
+      ],
+      "master_id": 1326856,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "5 027626 700829",
+        "5027626700829",
+        "DISCTRONICS S SAM 7008 01",
+        "IFPI L205"
+      ],
+      "master_url": "https://api.discogs.com/masters/1326856",
+      "genre": [
+        "Non-Music"
+      ],
+      "country": "UK",
+      "uri": "/Nirvana-Fully-Illustrated-Book-Interview-Disc/master/1326856",
+      "cover_image": "https://img.discogs.com/ytBKNV6Kht2soq94FCBCBEfXNe8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1449213-1467788457-3830.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/1326856"
+    },
+    {
+      "style": [
+        "Interview"
+      ],
+      "thumb": "https://img.discogs.com/pMeGAPwyz47_UUUmBS-b_d7Zlrs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-604509-1137790314.jpeg.jpg",
+      "uri": "/Nirvana-The-Bark-Not-The-Bite/master/1185102",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "country": "Unknown",
+      "barcode": [
+        "7 59092 42682 2",
+        "759092426822",
+        "LBR 02 [SNA logo] DIST003 11259715 [SNA logo]",
+        "ifpi L600",
+        "IFPI 1A07"
+      ],
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "master_url": "https://api.discogs.com/masters/1185102",
+      "label": [
+        "Not On Label (Nirvana)",
+        "James Upton Ltd.",
+        "AGI, USA",
+        "SNA"
+      ],
+      "cover_image": "https://img.discogs.com/DcQHW9wHJO1Ggpj0iAatyKfe-tA=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-604509-1137790314.jpeg.jpg",
+      "catno": "DIST003",
+      "community": {
+        "have": 120,
+        "want": 10
+      },
+      "genre": [
+        "Non-Music"
+      ],
+      "title": "Nirvana - The Bark Not The Bite",
+      "resource_url": "https://api.discogs.com/masters/1185102",
+      "master_id": 1185102,
+      "type": "master",
+      "id": 1185102
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 100,
+        "want": 54
+      },
+      "catno": "NRV101",
+      "year": "2015",
+      "id": 873075,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/kr3vbYn0hCK1H6xWA-K0nq0KK9c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6972643-1439835744-8441.jpeg.jpg",
+      "title": "Nirvana - 1991 The Year Grunge Broke",
+      "label": [
+        "Discos Toro Salvaje",
+        "Discos Toro Salvaje"
+      ],
+      "master_id": 873075,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Unofficial Release",
+        "White Label"
+      ],
+      "barcode": [
+        "NRV101-A1",
+        "NRV101-B1",
+        "666"
+      ],
+      "master_url": "https://api.discogs.com/masters/873075",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Spain",
+      "uri": "/Nirvana-1991-The-Year-Grunge-Broke/master/873075",
+      "cover_image": "https://img.discogs.com/kR91o9gIMvjAk06wKt3OA3Fb7TQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6972643-1439835744-8441.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/873075"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 63,
+        "want": 25
+      },
+      "catno": "BMCD50",
+      "year": "1995",
+      "id": 422025,
+      "style": [
+        "Alternative Rock",
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/YxMcheuuFi6aqbXJn7FeGJNwSfo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3496497-1332704858.jpeg.jpg",
+      "title": "Nirvana - Outcesticide IV",
+      "label": [
+        "Blue Moon Records"
+      ],
+      "master_id": 422025,
+      "type": "master",
+      "format": [
+        "CD",
+        "Compilation",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "BMCD50",
+        "GEMA",
+        "IFPI LD01"
+      ],
+      "master_url": "https://api.discogs.com/masters/422025",
+      "genre": [
+        "Rock"
+      ],
+      "country": "UK",
+      "uri": "/Nirvana-Outcesticide-IV/master/422025",
+      "cover_image": "https://img.discogs.com/YRsfTdoVqfl2BDeslRzwys8Mh3k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3496497-1332704858.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/422025"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 56,
+        "want": 53
+      },
+      "catno": "HAHA 4711",
+      "year": "1993",
+      "id": 1191905,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/X-xDHjbnl0pvwVmScTValkB4h9I=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1291918-1206975195.jpeg.jpg",
+      "title": "Nirvana - As Alive As Ever",
+      "label": [
+        "Horrible Breath Records",
+        "Aladin, Bremen"
+      ],
+      "master_id": 1191905,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "N1-891-A",
+        "N1-891-B"
+      ],
+      "master_url": "https://api.discogs.com/masters/1191905",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Unknown",
+      "uri": "/Nirvana-As-Alive-As-Ever/master/1191905",
+      "cover_image": "https://img.discogs.com/m02Xs8OzX7VsbHxyukDoLbZePpg=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1291918-1206975195.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/1191905"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 28,
+        "want": 12
+      },
+      "catno": "SOS 050494",
+      "year": "1994",
+      "id": 976344,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/Yotjc29R7-FfS3Dr5Mi1UXfZjpo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8284479-1458627134-9991.jpeg.jpg",
+      "title": "Nirvana - It's Better To Burn Out Than To Fade Away...",
+      "label": [
+        "Sounds Of Seattle"
+      ],
+      "master_id": 976344,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release",
+        "Compilation"
+      ],
+      "barcode": [
+        "SOS 050494",
+        "GEMA"
+      ],
+      "master_url": "https://api.discogs.com/masters/976344",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Germany",
+      "uri": "/Nirvana-Its-Better-To-Burn-Out-Than-To-Fade-Away/master/976344",
+      "cover_image": "https://img.discogs.com/w1Vk7ZnALI1AgiX83qlIT4YadrQ=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8284479-1458627134-9991.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/976344"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 3,
+        "want": 9
+      },
+      "catno": "none",
+      "year": "2015",
+      "id": 895596,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/TgIzQu7eKvWGaayvpSUoKcrywUM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7357683-1454496674-2395.jpeg.jpg",
+      "title": "Nirvana - Grunge In Brazil 1993",
+      "label": [
+        "Negative Creep Records"
+      ],
+      "master_id": 895596,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Limited Edition",
+        "Numbered",
+        "Unofficial Release"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/895596",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Europe",
+      "uri": "/Nirvana-Grunge-In-Brazil-1993/master/895596",
+      "cover_image": "https://img.discogs.com/GoliDo84yZ16VON8DxHAPJlhIh8=/fit-in/400x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7357683-1454496674-2395.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/895596"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 105,
+        "want": 77
+      },
+      "catno": "HPR 070387",
+      "year": "2001",
+      "id": 497128,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/jW90UrgpmYmdsYybJQ2rfEoDyfE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1804835-1454624313-7778.jpeg.jpg",
+      "title": "Nirvana - First Live Show",
+      "label": [
+        "Not On Label (Nirvana)"
+      ],
+      "master_id": 497128,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "4 575570 703874",
+        "HPR 070387"
+      ],
+      "master_url": "https://api.discogs.com/masters/497128",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Europe",
+      "uri": "/Nirvana-First-Live-Show/master/497128",
+      "cover_image": "https://img.discogs.com/3eknfc4D57l3ksQaazhsZotXp5E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1804835-1454624313-7778.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/497128"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 71,
+        "want": 81
+      },
+      "catno": "MIK 036",
+      "year": "1992",
+      "id": 379544,
+      "style": [
+        "Alternative Rock",
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/R_XPg5HlzhRXFoy121hP7lT3SwI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-831852-1440627600-8859.jpeg.jpg",
+      "title": "Nirvana - Firework Night",
+      "label": [
+        "Deep Records",
+        "Deep Records",
+        "London Astoria"
+      ],
+      "master_id": 379544,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "I.C.P A 2436",
+        "GEMA",
+        "DDD"
+      ],
+      "master_url": "https://api.discogs.com/masters/379544",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Europe",
+      "uri": "/Nirvana-Firework-Night/master/379544",
+      "cover_image": "https://img.discogs.com/JjQZJPsiq-E6kD8MsTY-0i7ND9M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-831852-1440627600-8859.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/379544"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 24,
+        "want": 42
+      },
+      "catno": "SC-NR-012",
+      "year": "1996",
+      "id": 392573,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/tYXoEpBwuRdk14j5dfKylZkg4_E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1875521-1249435435.jpeg.jpg",
+      "title": "Nirvana - Alternate Albini Mix",
+      "label": [
+        "Small Clone"
+      ],
+      "master_id": 392573,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "SC-NR-012 601984X",
+        "IFPI L602"
+      ],
+      "master_url": "https://api.discogs.com/masters/392573",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Japan",
+      "uri": "/Nirvana-Alternate-Albini-Mix/master/392573",
+      "cover_image": "https://img.discogs.com/MlDhEidGmJb-gY7T3cqmeL-cTMA=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1875521-1249435435.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/392573"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 76,
+        "want": 61
+      },
+      "catno": "Flash 06.95.0266",
+      "year": "1995",
+      "id": 392583,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/vygZqDNy5QZPKd87-IoHCqvqI_k=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1430642-1220215605.jpeg.jpg",
+      "title": "Nirvana - Playing At The Moon",
+      "label": [
+        "Flashback World Productions",
+        "Flashback World Productions"
+      ],
+      "master_id": 392583,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "5 450226 322663",
+        "DURECO [02] FB 0266",
+        "GEMA",
+        "AAD"
+      ],
+      "master_url": "https://api.discogs.com/masters/392583",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Luxembourg",
+      "uri": "/Nirvana-Playing-At-The-Moon/master/392583",
+      "cover_image": "https://img.discogs.com/Oo6Dvqb936k1ExwN8MzyPPNsmws=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1430642-1220215605.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/392583"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 118,
+        "want": 89
+      },
+      "catno": "PRO-CD-4704",
+      "year": "1995",
+      "id": 591479,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/PQxN3oFzaoGTMKNuygsvtBn7oEM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-829729-1467804156-8344.jpeg.jpg",
+      "title": "Nirvana - The Man Who Sold The World",
+      "label": [
+        "Geffen Records",
+        "Specialty Records Corporation",
+        "Uni Distribution Corp.",
+        "Uni Distribution Corp.",
+        "Geffen Records, Inc."
+      ],
+      "master_id": 591479,
+      "type": "master",
+      "format": [
+        "CD",
+        "Single",
+        "Promo"
+      ],
+      "barcode": [
+        "[Specialty Records Corporation logo] 38 PRO CD 4704-2 SRC@@1 M1S1"
+      ],
+      "master_url": "https://api.discogs.com/masters/591479",
+      "genre": [
+        "Rock"
+      ],
+      "country": "US",
+      "uri": "/Nirvana-The-Man-Who-Sold-The-World/master/591479",
+      "cover_image": "https://img.discogs.com/Shi5S1SYynvWuG0-5HNSq-YJI9Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-829729-1467804156-8344.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/591479"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 245,
+        "want": 138
+      },
+      "catno": "none",
+      "year": "2000",
+      "id": 115201,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/BINvSClITQ3Q49cZx9ZMF_UZiig=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1205761-1374350099-4370.jpeg.jpg",
+      "title": "Nirvana - Saturday Night Not-So Live",
+      "label": [
+        "Not On Label (Nirvana)"
+      ],
+      "master_id": 115201,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Unofficial Release"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/115201",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Unknown",
+      "uri": "/Nirvana-Saturday-Night-Not-So-Live/master/115201",
+      "cover_image": "https://img.discogs.com/wr4avpE_xs-gDJ_psffTuA9pCIo=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1205761-1374350099-4370.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/115201"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 158,
+        "want": 43
+      },
+      "catno": "CD001",
+      "year": "1994",
+      "id": 658138,
+      "style": [
+        "Garage Rock",
+        "Grunge",
+        "Punk"
+      ],
+      "thumb": "https://img.discogs.com/DA8CoZy7DZfAlaH5wj_HuoJk6K4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5739852-1401353569-7001.jpeg.jpg",
+      "title": "Nirvana - Grunge Is Dead",
+      "label": [
+        "Seattle Sounds",
+        "Seattle Sounds"
+      ],
+      "master_id": 658138,
+      "type": "master",
+      "format": [
+        "CD",
+        "Compilation",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "7 2064-24425-2 4",
+        "SSCD001",
+        "GEMA"
+      ],
+      "master_url": "https://api.discogs.com/masters/658138",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Germany",
+      "uri": "/Nirvana-Grunge-Is-Dead/master/658138",
+      "cover_image": "https://img.discogs.com/aHw_wa32wRiCTzQjFIC668g8Wys=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5739852-1401353569-7001.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/658138"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 19,
+        "want": 247
+      },
+      "catno": "GFS79",
+      "year": "1994",
+      "id": 868513,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/Skp3xjLql2V4AFYcWg3tqWsJVpk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7319186-1451328738-5559.jpeg.jpg",
+      "title": "Nirvana - Lake Of Fire",
+      "label": [
+        "Geffen Records",
+        "Meat Puppets Music",
+        "The End Of Music"
+      ],
+      "master_id": 868513,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Single",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "5 053005 366793",
+        "GFS 79 A-01-1",
+        "GFS 79 B-01-1"
+      ],
+      "master_url": "https://api.discogs.com/masters/868513",
+      "genre": [
+        "Rock"
+      ],
+      "country": "UK",
+      "uri": "/Nirvana-Lake-Of-Fire/master/868513",
+      "cover_image": "https://img.discogs.com/fuf8jyTTBkaUbMyed46W7murYA8=/fit-in/399x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7319186-1451328738-5559.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/868513"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 12,
+        "want": 20
+      },
+      "catno": "SC-NR-008",
+      "year": "1996",
+      "id": 556146,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/7M5z0Pny0FTvrs4FrLiJsEn1SHU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3277617-1523480720-7300.jpeg.jpg",
+      "title": "Nirvana - Feedback Mentality",
+      "label": [
+        "Small Clone",
+        "Seattle Center Coliseum"
+      ],
+      "master_id": 556146,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "SC-NR-008 23925X IFPI L602",
+        "IFPI L602"
+      ],
+      "master_url": "https://api.discogs.com/masters/556146",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Japan",
+      "uri": "/Nirvana-Feedback-Mentality/master/556146",
+      "cover_image": "https://img.discogs.com/an1l_qc2YFh7Gh6TbBU-68Or4I0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3277617-1523480720-7300.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/556146"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 3257,
+        "want": 2739
+      },
+      "catno": "GEFD21711",
+      "year": "1991",
+      "id": 42459,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/Jo_Y0QMFAS3m5yNVB8GjqhKc10g=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2703203-1306394656.jpeg.jpg",
+      "title": "Nirvana - Hormoaning (Exclusive Australian '92 Tour EP)",
+      "label": [
+        "DGC",
+        "DGC",
+        "The David Geffen Company",
+        "The David Geffen Company",
+        "Uni Distribution Corp.",
+        "Uni Distribution Corp.",
+        "BMG Arista / Ariola Limited",
+        "BBC Enterprises",
+        "DADC"
+      ],
+      "master_id": 42459,
+      "type": "master",
+      "format": [
+        "CD",
+        "EP"
+      ],
+      "barcode": [
+        "9 399441 171143",
+        "DIDX-012255 2",
+        "DIDX 012255"
+      ],
+      "master_url": "https://api.discogs.com/masters/42459",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Australia",
+      "uri": "/Nirvana-Hormoaning-Exclusive-Australian-92-Tour-EP/master/42459",
+      "cover_image": "https://img.discogs.com/jC7xIf0EL44r9iWAoW_n7IYECnQ=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2703203-1306394656.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/42459"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 647,
+        "want": 1932
+      },
+      "catno": "ILPS 9059",
+      "year": "1967",
+      "id": 148293,
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "thumb": "https://img.discogs.com/SymzOn0k1tSEVg2BzN2NkPcn11s=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3602994-1336996103-2949.jpeg.jpg",
+      "title": "Nirvana (2) - The Story Of Simon Simopath",
+      "label": [
+        "Island Records",
+        "Island Records"
+      ],
+      "master_id": 148293,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "barcode": [
+        "ILPS+9059+A",
+        "ILPS+9059+B"
+      ],
+      "master_url": "https://api.discogs.com/masters/148293",
+      "genre": [
+        "Rock"
+      ],
+      "country": "UK",
+      "uri": "/Nirvana-The-Story-Of-Simon-Simopath/master/148293",
+      "cover_image": "https://img.discogs.com/PMElAdvbgrnhDgC0CKZYYU4h9KY=/fit-in/500x508/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3602994-1336996103-2949.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/148293"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 39,
+        "want": 38
+      },
+      "catno": "NIR1230002UN",
+      "year": "2017",
+      "id": 1181259,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/-Jg0NQaj6xnrLvmb4IL9rQRwpXM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10118372-1493388069-3731.jpeg.jpg",
+      "title": "Nirvana - Secret Songs \u2013 The Unreleased Album",
+      "label": [
+        "Not On Label (Nirvana)"
+      ],
+      "master_id": 1181259,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Unofficial Release"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/1181259",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Europe",
+      "uri": "/Nirvana-Secret-Songs-The-Unreleased-Album/master/1181259",
+      "cover_image": "https://img.discogs.com/6IuXY7ogyRwK1R2YcSZJIFbpzF4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10118372-1493388069-3731.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/1181259"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 2133,
+        "want": 1757
+      },
+      "catno": "GFSTD 34",
+      "year": "1992",
+      "id": 42461,
+      "style": [
+        "Grunge",
+        "Alternative Rock"
+      ],
+      "thumb": "https://img.discogs.com/7qO0JiJyaAGywyaTRLxK1ZcaIjA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1531611-1253311162.jpeg.jpg",
+      "title": "Nirvana - In Bloom",
+      "label": [
+        "Geffen Records",
+        "The David Geffen Company",
+        "The David Geffen Company",
+        "MCA Records Ltd.",
+        "BMG Records (UK) Ltd.",
+        "Sub Pop",
+        "Nimbus"
+      ],
+      "master_id": 42461,
+      "type": "master",
+      "format": [
+        "CD",
+        "Single"
+      ],
+      "barcode": [
+        "5 021508 003428",
+        "GFSTD 34 : MASTERED BY NIMBUS",
+        "GFSTD 34 : 1:3 MASTERED BY NIMBUS",
+        "GFSTD 34 : 1:2 MASTERED BY NIMBUS"
+      ],
+      "master_url": "https://api.discogs.com/masters/42461",
+      "genre": [
+        "Rock"
+      ],
+      "country": "UK",
+      "uri": "/Nirvana-In-Bloom/master/42461",
+      "cover_image": "https://img.discogs.com/hvon6o7dJWMGUVK4mxU2f2OGeYg=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1531611-1253311162.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/42461"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 80525,
+        "want": 147719
+      },
+      "catno": "DGCD-24425",
+      "year": "1991",
+      "id": 13814,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/xuyvsRVdjY3aiJnHF8BkejxbcTg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-367084-1263095553.jpeg.jpg",
+      "title": "Nirvana - Nevermind",
+      "label": [
+        "DGC",
+        "Sub Pop",
+        "Uni Distribution Corp.",
+        "Uni Distribution Corp.",
+        "The David Geffen Company",
+        "The David Geffen Company",
+        "Digital Audio Disc Corp.",
+        "Sound City Studios",
+        "Scream Studios",
+        "Masterdisk",
+        "DADC"
+      ],
+      "master_id": 13814,
+      "type": "master",
+      "format": [
+        "CD",
+        "Album",
+        "Mispress"
+      ],
+      "barcode": [
+        "7 2064-24425-2 4",
+        "720642442524",
+        "DIDX-011927 3",
+        "DIDX-011927 6",
+        "Made In USA - Digital Audio Disc Corp.",
+        "DIDX-011927 5",
+        "[DADC 'D' logo]",
+        "DIDX 011927",
+        "AAD"
+      ],
+      "master_url": "https://api.discogs.com/masters/13814",
+      "genre": [
+        "Rock"
+      ],
+      "country": "US",
+      "uri": "/Nirvana-Nevermind/master/13814",
+      "cover_image": "https://img.discogs.com/UoDAnoi3Cbp_JvOrz4CRgZBBSfg=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367084-1263095553.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/13814"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 0,
+        "want": 0
+      },
+      "catno": "B0010958-02",
+      "year": "2008",
+      "id": 452162,
+      "style": [
+        "Alternative Rock",
+        "Acoustic",
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/3uqH1wByy85B_0tARCV_wjfRxAY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1849485-1247678501.jpeg.jpg",
+      "title": "Nirvana - Nirvana",
+      "label": [
+        "DGC",
+        "DGC"
+      ],
+      "master_id": 452162,
+      "type": "master",
+      "format": [
+        "CD",
+        "Compilation",
+        "Reissue"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/452162",
+      "genre": [
+        "Rock"
+      ],
+      "country": "US",
+      "uri": "/Nirvana-Nirvana/master/452162",
+      "cover_image": "https://img.discogs.com/_WW-A9es_baLWN4eu4is5mTrhkE=/fit-in/450x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1849485-1247678501.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/452162"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 60,
+        "want": 18
+      },
+      "catno": "CD 9106",
+      "year": "1992",
+      "id": 748550,
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/FCEKlG0V3u4py7yDKA7cX0P0zDk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1795890-1452713226-6365.jpeg.jpg",
+      "title": "Nirvana - Sliver",
+      "label": [
+        "Silver Shadow"
+      ],
+      "master_id": 748550,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/748550",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Italy",
+      "uri": "/Nirvana-Sliver/master/748550",
+      "cover_image": "https://img.discogs.com/SKY4uzxqx7yRorg0W_aItqTLXbs=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1795890-1452713226-6365.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/748550"
+    },
+    {
+      "style": [
+        "Alternative Rock",
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/iuBMEkkomBu_ClQ55cN6xvEydjU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3709975-1341266674-1048.jpeg.jpg",
+      "uri": "/Nirvana-Loose-Ends/master/504694",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "country": "Unknown",
+      "barcode": [],
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "master_url": "https://api.discogs.com/masters/504694",
+      "label": [
+        "Not On Label (Nirvana)"
+      ],
+      "cover_image": "https://img.discogs.com/xwWmzPEfZQu-iFmSlS1fSfhG0RA=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3709975-1341266674-1048.jpeg.jpg",
+      "catno": "none",
+      "community": {
+        "have": 3,
+        "want": 13
+      },
+      "genre": [
+        "Rock"
+      ],
+      "title": "Nirvana - Loose Ends",
+      "resource_url": "https://api.discogs.com/masters/504694",
+      "master_id": 504694,
+      "type": "master",
+      "id": 504694
+    },
+    {
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/-xa6zqqKpkmsW8ka6s-Wvie_hwo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5307813-1390159129-2253.jpeg.jpg",
+      "uri": "/Nirvana-Ultimate-Bleach-Sessions/master/800859",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Compilation",
+        "Unofficial Release"
+      ],
+      "country": "Unknown",
+      "barcode": [
+        "BLEACH 001 A1",
+        "BLEACH 001 B1"
+      ],
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "master_url": "https://api.discogs.com/masters/800859",
+      "label": [
+        "Pub Sop",
+        "Reciprocal Recording",
+        "MTV Studios",
+        "VPRO"
+      ],
+      "cover_image": "https://img.discogs.com/j58UWAlLWJwP1jGHtSBZalM0l8g=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5307813-1390159129-2253.jpeg.jpg",
+      "catno": "PUB-SOP1",
+      "community": {
+        "have": 20,
+        "want": 32
+      },
+      "genre": [
+        "Rock"
+      ],
+      "title": "Nirvana - Ultimate Bleach Sessions",
+      "resource_url": "https://api.discogs.com/masters/800859",
+      "master_id": 800859,
+      "type": "master",
+      "id": 800859
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 54,
+        "want": 12
+      },
+      "catno": "MECD 1087",
+      "year": "1992",
+      "id": 528800,
+      "style": [
+        "Alternative Rock",
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/CDPSoySkYSffQiRnzPvPdkrsKNk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1523718-1437356383-5686.jpeg.jpg",
+      "title": "Nirvana - Rough Tapes",
+      "label": [
+        "Metal Crash"
+      ],
+      "master_id": 528800,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release",
+        "Compilation"
+      ],
+      "barcode": [
+        "MECD 1087 PHC",
+        "S.I.A.E."
+      ],
+      "master_url": "https://api.discogs.com/masters/528800",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Italy",
+      "uri": "/Nirvana-Rough-Tapes/master/528800",
+      "cover_image": "https://img.discogs.com/OgEwE6RrFdLAxlGGWeL_syUsfX0=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1523718-1437356383-5686.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/528800"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 49,
+        "want": 13
+      },
+      "catno": "SWN SP 001",
+      "year": "1994",
+      "id": 115186,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/M6a0uWUJeiVAkK_35O2SKW95XfU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1709058-1519524096-7805.jpeg.jpg",
+      "title": "Nirvana - In Scope",
+      "label": [
+        "Swindle Records",
+        "CD Company Italy"
+      ],
+      "master_id": 115186,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "CD COMPANY ITALY SWNSP001",
+        "S.I.A.E."
+      ],
+      "master_url": "https://api.discogs.com/masters/115186",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Italy",
+      "uri": "/Nirvana-In-Scope/master/115186",
+      "cover_image": "https://img.discogs.com/-J7zZ-Sts1pE7_5PNowGPy5CnTU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709058-1519524096-7805.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/115186"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 29,
+        "want": 37
+      },
+      "catno": "CR-11",
+      "year": "1994",
+      "id": 497080,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/WG2JjM0VVtVBzv4taDSgpb0OQ7k=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1879566-1249716098.jpeg.jpg",
+      "title": "Nirvana - Seattle 1988",
+      "label": [
+        "Cracker"
+      ],
+      "master_id": 497080,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "PB5106A"
+      ],
+      "master_url": "https://api.discogs.com/masters/497080",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Japan",
+      "uri": "/Nirvana-Seattle-1988/master/497080",
+      "cover_image": "https://img.discogs.com/5ZuFCEFArM0Z0UQaQnDEF-nAaBI=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1879566-1249716098.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/497080"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 288,
+        "want": 70
+      },
+      "catno": "900211",
+      "year": "2003",
+      "id": 497129,
+      "style": [
+        "Alternative Rock",
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/x7MFP90aOnZY4amjMN4EL-pTFB4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3679429-1348713925-7228.jpeg.jpg",
+      "title": "Nirvana - Mescalinfluenced",
+      "label": [
+        "KDC Enterprises",
+        "KDC Enterprises",
+        "Cactus Club, San Jose"
+      ],
+      "master_id": 497129,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "4 985985 246321"
+      ],
+      "master_url": "https://api.discogs.com/masters/497129",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Europe",
+      "uri": "/Nirvana-Mescalinfluenced/master/497129",
+      "cover_image": "https://img.discogs.com/xWv5jyITJQxgzM5Ct5Jst_gPDVk=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3679429-1348713925-7228.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/497129"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 158,
+        "want": 114
+      },
+      "catno": "none",
+      "year": "1992",
+      "id": 497132,
+      "style": [
+        "Alternative Rock"
+      ],
+      "thumb": "https://img.discogs.com/hu6ZkVwRd13f1J5vv7yEa27UdcU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3455532-1458432248-6454.jpeg.jpg",
+      "title": "Nirvana - Reading 91",
+      "label": [
+        "Cobain Noise"
+      ],
+      "master_id": 497132,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "COB1"
+      ],
+      "master_url": "https://api.discogs.com/masters/497132",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Unknown",
+      "uri": "/Nirvana-Reading-91/master/497132",
+      "cover_image": "https://img.discogs.com/vz4IZgnSOQVkI6fuZLH3mkLxIrg=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3455532-1458432248-6454.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/497132"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 17,
+        "want": 2
+      },
+      "catno": "HIT2021",
+      "year": "2005",
+      "id": 1094789,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/gGJ1FtY77Fd1twaedWqUXapy-Uo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9402224-1479929285-7428.jpeg.jpg",
+      "title": "Nirvana - The Ultimate Review",
+      "label": [
+        "American Legends Ltd",
+        "Sandbeach Holdings (BVI) Ltd.",
+        "Pictorial Press"
+      ],
+      "master_id": 1094789,
+      "type": "master",
+      "format": [
+        "DVD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "8 23880 03462 6",
+        "24904-HIT2021 V27841-1",
+        "IFPI LK46",
+        "IFPI 1991"
+      ],
+      "master_url": "https://api.discogs.com/masters/1094789",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Europe",
+      "uri": "/Nirvana-The-Ultimate-Review/master/1094789",
+      "cover_image": "https://img.discogs.com/L1lygAjxgZM7sY24ZnCWcsnMmng=/fit-in/600x885/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9402224-1479929285-7428.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/1094789"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 3,
+        "want": 26
+      },
+      "catno": "7N.25525",
+      "year": "1970",
+      "id": 1270516,
+      "style": [],
+      "thumb": "https://img.discogs.com/pmnBbTuHY0a5-kDd6nrJAW16-jY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7845303-1450024095-1079.jpeg.jpg",
+      "title": "Nirvana (2) - The World Is Cold Without You",
+      "label": [
+        "Pye International"
+      ],
+      "master_id": 1270516,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "Single",
+        "Promo"
+      ],
+      "barcode": [
+        "7N 25525A1-\u25c7 H STEREO",
+        "7N 25525B1-\u25c7 H STEREO"
+      ],
+      "master_url": "https://api.discogs.com/masters/1270516",
+      "genre": [
+        "Rock"
+      ],
+      "country": "UK",
+      "uri": "/Nirvana-The-World-Is-Cold-Without-You/master/1270516",
+      "cover_image": "https://img.discogs.com/yH94HbCiStKGR06PYNoP-Ektv_w=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7845303-1450024095-1079.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/1270516"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 0,
+        "want": 0
+      },
+      "catno": "GFS 66",
+      "year": "1993",
+      "id": 42464,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/xh4IVwUlCJ5wRkqC_wlHS-vbcDk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1345690-1472433755-2766.jpeg.jpg",
+      "title": "Nirvana - All Apologies / Rape Me / MV",
+      "label": [
+        "Geffen Records"
+      ],
+      "master_id": 42464,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Single"
+      ],
+      "barcode": [
+        "5021508006672",
+        "GFS 66 A-1-1-Q1",
+        "GFS 66 B-1-1-Q1"
+      ],
+      "master_url": "https://api.discogs.com/masters/42464",
+      "genre": [
+        "Rock"
+      ],
+      "country": "UK",
+      "uri": "/Nirvana-All-Apologies-Rape-Me-MV/master/42464",
+      "cover_image": "https://img.discogs.com/c1YCFloFCXc7u1ESnc1b7Igb1aI=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1345690-1472433755-2766.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/42464"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 680,
+        "want": 162
+      },
+      "catno": "SMCD905",
+      "year": "2012",
+      "id": 572338,
+      "style": [
+        "Grunge",
+        "Alternative Rock"
+      ],
+      "thumb": "https://img.discogs.com/xlLfWOHeobDzBzZVCsfjpmhvah4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4370865-1405965375-8421.jpeg.jpg",
+      "title": "Nirvana - Feels Like The First Time: Broadcasts 1992-1993",
+      "label": [
+        "Smokin'",
+        "Pier 48",
+        "The Palace, Melbourne",
+        "Saturday Night Live"
+      ],
+      "master_id": 572338,
+      "type": "master",
+      "format": [
+        "CD",
+        "Compilation",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "8 23562 62452 5",
+        "823564624525"
+      ],
+      "master_url": "https://api.discogs.com/masters/572338",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Unknown",
+      "uri": "/Nirvana-Feels-Like-The-First-Time-Broadcasts-1992-1993/master/572338",
+      "cover_image": "https://img.discogs.com/SO6-W4zzrGadk2VuB7TIHn6IDbs=/fit-in/500x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4370865-1405965375-8421.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/572338"
+    },
+    {
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/jchmiD9hKJ6J6xkKY9O8p6xraWo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-970135-1179150648.jpeg.jpg",
+      "uri": "/Nirvana-Alive-II/master/783344",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "Limited Edition",
+        "Numbered",
+        "Unofficial Release"
+      ],
+      "country": "Unknown",
+      "barcode": [],
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "master_url": "https://api.discogs.com/masters/783344",
+      "label": [
+        "Not On Label (Nirvana)"
+      ],
+      "cover_image": "https://img.discogs.com/COqxMl80T2aD6MVcpfjDS9ebWwc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-970135-1179150648.jpeg.jpg",
+      "catno": "none",
+      "community": {
+        "have": 79,
+        "want": 46
+      },
+      "genre": [
+        "Rock"
+      ],
+      "title": "Nirvana - Alive II",
+      "resource_url": "https://api.discogs.com/masters/783344",
+      "master_id": 783344,
+      "type": "master",
+      "id": 783344
+    },
+    {
+      "style": [
+        "Alternative Rock",
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/YJr8XJfgkWxJx_Y4K9igFvbLnXk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3563242-1335413059.jpeg.jpg",
+      "uri": "/Nirvana-Reciprocal-Studio-Demos/master/556152",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "country": "Unknown",
+      "barcode": [
+        "FH404E SA",
+        "IFPI L462",
+        "IFPI 7833"
+      ],
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "master_url": "https://api.discogs.com/masters/556152",
+      "label": [
+        "Sun Pop"
+      ],
+      "cover_image": "https://img.discogs.com/vLLiltWrnE-dbV_E6EtOxKCwvLA=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3563242-1335413059.jpeg.jpg",
+      "catno": "studio-01",
+      "community": {
+        "have": 15,
+        "want": 21
+      },
+      "genre": [
+        "Rock"
+      ],
+      "title": "Nirvana - Reciprocal Studio Demos",
+      "resource_url": "https://api.discogs.com/masters/556152",
+      "master_id": 556152,
+      "type": "master",
+      "id": 556152
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 150,
+        "want": 132
+      },
+      "catno": "PRO-CD-1033",
+      "year": "1996",
+      "id": 806802,
+      "style": [
+        "Alternative Rock",
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/MQsTvdCPohwTFB4egUlwtkzTG1g=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1521317-1443707875-1571.jpeg.jpg",
+      "title": "Nirvana - Aneurysm",
+      "label": [
+        "DGC",
+        "Geffen Records, Inc.",
+        "Geffen Records, Inc.",
+        "Del Mar Fairgrounds",
+        "Uni Distribution Corp.",
+        "Uni Distribution Corp.",
+        "WEA Mfg. Olyphant"
+      ],
+      "master_id": 806802,
+      "type": "master",
+      "format": [
+        "CD",
+        "Single",
+        "Promo"
+      ],
+      "barcode": [
+        "[WEA Mfg. Olyphant logo] Y8 38 PRO CD 1033-2 01 M0S1",
+        "2U4F"
+      ],
+      "master_url": "https://api.discogs.com/masters/806802",
+      "genre": [
+        "Rock"
+      ],
+      "country": "US",
+      "uri": "/Nirvana-Aneurysm/master/806802",
+      "cover_image": "https://img.discogs.com/ZMFV3qQQnLqGAI60p5MA4pYdcqY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1521317-1443707875-1571.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/806802"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 78,
+        "want": 87
+      },
+      "catno": "LAURA-002",
+      "year": "1995",
+      "id": 462493,
+      "style": [
+        "Alternative Rock",
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/b4lYG7QY8mhFO7cltqa_cwo4FyM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3219176-1492260664-5562.jpeg.jpg",
+      "title": "Nirvana - Fire Extinguisher",
+      "label": [
+        "Laura",
+        "Nakano Sun Plaza"
+      ],
+      "master_id": 462493,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "22524X LAURA-002 IFPI L602",
+        "IFPI L602"
+      ],
+      "master_url": "https://api.discogs.com/masters/462493",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Japan",
+      "uri": "/Nirvana-Fire-Extinguisher/master/462493",
+      "cover_image": "https://img.discogs.com/dsCVqkb-urD1mD7HEOus40Zcr58=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3219176-1492260664-5562.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/462493"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 180,
+        "want": 80
+      },
+      "catno": "GENOCIDE007",
+      "year": "2014",
+      "id": 814313,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/vPv1pU7atgvkxUZHa2Yej8ulkJ0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6195703-1413447793-5430.jpeg.jpg",
+      "title": "Nirvana - Complete BBC Sessions",
+      "label": [
+        "Not On Label (Nirvana)"
+      ],
+      "master_id": 814313,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Compilation",
+        "Unofficial Release",
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Unofficial Release"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/814313",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Unknown",
+      "uri": "/Nirvana-Complete-BBC-Sessions/master/814313",
+      "cover_image": "https://img.discogs.com/aGVZcGo6v4zclTCF-MsTu680AL4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6195703-1413447793-5430.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/814313"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 99,
+        "want": 107
+      },
+      "catno": "CD 021",
+      "year": "1992",
+      "id": 391728,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/__cztoyoPc88nWzLOX8lgEsLWIk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3275861-1463005495-6793.jpeg.jpg",
+      "title": "Nirvana - At The Hollywood Palladium",
+      "label": [
+        "Nail Records",
+        "Capitol",
+        "The Hollywood Palladium"
+      ],
+      "master_id": 391728,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "MADE IN KOREA HAC-9228 T102-14312 <02>",
+        "GEMA"
+      ],
+      "master_url": "https://api.discogs.com/masters/391728",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Germany",
+      "uri": "/Nirvana-At-The-Hollywood-Palladium/master/391728",
+      "cover_image": "https://img.discogs.com/EyhBDWHC38VjlXBPczEb47BILpM=/fit-in/350x353/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3275861-1463005495-6793.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/391728"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 21,
+        "want": 43
+      },
+      "catno": "SC-NR-013",
+      "year": "1996",
+      "id": 392560,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/tkibWNkiD_PY4CvsE4FPpI50ago=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3281533-1525713514-3716.jpeg.jpg",
+      "title": "Nirvana - Noizemaker",
+      "label": [
+        "Small Clone",
+        "Coogee Bay Hotel"
+      ],
+      "master_id": 392560,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "SC-NR-013 602440X IFPI L601",
+        "IFPI L601"
+      ],
+      "master_url": "https://api.discogs.com/masters/392560",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Japan",
+      "uri": "/Nirvana-Noizemaker/master/392560",
+      "cover_image": "https://img.discogs.com/MB9OnCc8Q6e4_Ejb8_6wIt9Is5M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3281533-1525713514-3716.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/392560"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 164,
+        "want": 78
+      },
+      "catno": "PSCD 1173",
+      "year": "1992",
+      "id": 416723,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/4bKY6B1Av9VnI4RgvkfHuxInoA8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-726584-1454097483-4842.jpeg.jpg",
+      "title": "Nirvana - Europe 1991",
+      "label": [
+        "Post Script",
+        "Red Line S.r.l.",
+        "Red Line S.r.l.",
+        "Red Line",
+        "Bloom, Mezzago"
+      ],
+      "master_id": 416723,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "PSCD 1173 PHC",
+        "S.I.A.E.",
+        "ADD"
+      ],
+      "master_url": "https://api.discogs.com/masters/416723",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Italy",
+      "uri": "/Nirvana-Europe-1991/master/416723",
+      "cover_image": "https://img.discogs.com/6l1SDvcArhbe-KteFBS11qqX3B8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-726584-1454097483-4842.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/416723"
+    },
+    {
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/DJa6dtbAKxsHB_8mmZl8LWeploY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3280323-1401224841-6619.jpeg.jpg",
+      "uri": "/Nirvana-Live-At-Hollywood-Rock-Festival-93/master/894818",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "country": "Germany",
+      "barcode": [
+        "TSD JW 1001/1",
+        "TSD JW 1001/2",
+        "ACUM"
+      ],
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "master_url": "https://api.discogs.com/masters/894818",
+      "label": [
+        "Not On Label (Nirvana)",
+        "Pra\u00e7a Da Apoteose"
+      ],
+      "cover_image": "https://img.discogs.com/_hAdvEnmJH0xalL3IeJ2wx8ujTM=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3280323-1401224841-6619.jpeg.jpg",
+      "catno": "JW 1001 - 1/2",
+      "community": {
+        "have": 154,
+        "want": 57
+      },
+      "genre": [
+        "Rock"
+      ],
+      "title": "Nirvana - Live At Hollywood Rock Festival 93'",
+      "resource_url": "https://api.discogs.com/masters/894818",
+      "master_id": 894818,
+      "type": "master",
+      "id": 894818
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 3,
+        "want": 16
+      },
+      "catno": "none",
+      "year": "2002",
+      "id": 1312709,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/BLmjmlgrcEAbnMur02z4Xj2SVn4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11058481-1509079950-3432.jpeg.jpg",
+      "title": "Nirvana - You Know You're Right",
+      "label": [
+        "Universal"
+      ],
+      "master_id": 1312709,
+      "type": "master",
+      "format": [
+        "DVDr",
+        "DVD-Video",
+        "Single",
+        "Promo"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/1312709",
+      "genre": [
+        "Rock"
+      ],
+      "country": "UK",
+      "uri": "/Nirvana-You-Know-Youre-Right/master/1312709",
+      "cover_image": "https://img.discogs.com/b69KFk01dR29FEVWZuAlqxP3LOA=/fit-in/600x618/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11058481-1509079950-3432.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/1312709"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 3881,
+        "want": 2550
+      },
+      "catno": "GFSTD 54",
+      "year": "1993",
+      "id": 42466,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/h-yi-Z-uBaILi8lrkbAqmYv6uSM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8354985-1459975011-5197.jpeg.jpg",
+      "title": "Nirvana - Heart-Shaped Box",
+      "label": [
+        "Geffen Records",
+        "The End Of Music",
+        "EMI Virgin Music Ltd.",
+        "MCA Records Ltd.",
+        "Geffen Records, Inc.",
+        "Geffen Records, Inc.",
+        "BMG Records (UK) Ltd.",
+        "Nimbus"
+      ],
+      "master_id": 42466,
+      "type": "master",
+      "format": [
+        "CD",
+        "Single"
+      ],
+      "barcode": [
+        "5 021508 005422",
+        "5021508005422",
+        "GFSTD 54 \u2219 1:0 :MASTERED: :BY NIMBUS:",
+        "GFSTD 54 \u2219 1:3 :MASTERED: :BY NIMBUS:",
+        "AAD"
+      ],
+      "master_url": "https://api.discogs.com/masters/42466",
+      "genre": [
+        "Rock"
+      ],
+      "country": "UK",
+      "uri": "/Nirvana-Heart-Shaped-Box/master/42466",
+      "cover_image": "https://img.discogs.com/MCRhB-LDTNrHkcBIkTZQWlLSA1g=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8354985-1459975011-5197.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/42466"
+    },
+    {
+      "style": [],
+      "thumb": "https://img.discogs.com/tcna2X3VPZsi5DVI_dR-qHmcYMo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3279611-1323689953.jpeg.jpg",
+      "uri": "/Nirvana-Gold/master/653048",
+      "format": [
+        "CD",
+        "Unofficial Release",
+        "Compilation"
+      ],
+      "country": "Russia",
+      "barcode": [
+        "N-1229-G"
+      ],
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "master_url": "https://api.discogs.com/masters/653048",
+      "label": [
+        "Not On Label (Nirvana)"
+      ],
+      "cover_image": "https://img.discogs.com/GI3Pq3zKO2lzPPvMNcm3BWyuVGw=/fit-in/350x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3279611-1323689953.jpeg.jpg",
+      "catno": "N-1229-G",
+      "community": {
+        "have": 47,
+        "want": 26
+      },
+      "genre": [
+        "Rock"
+      ],
+      "title": "Nirvana - Gold",
+      "resource_url": "https://api.discogs.com/masters/653048",
+      "master_id": 653048,
+      "type": "master",
+      "id": 653048
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 232,
+        "want": 170
+      },
+      "catno": "B0019040-09",
+      "year": "2013",
+      "id": 603664,
+      "style": [
+        "Grunge",
+        "Alternative Rock"
+      ],
+      "thumb": "https://img.discogs.com/xr35ykTHzO5ywN5z0XhuhgV3cAo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5032543-1382649095-8415.jpeg.jpg",
+      "title": "Nirvana - Live And Loud",
+      "label": [
+        "DGC",
+        "UMe",
+        "Geffen Records",
+        "Geffen Records",
+        "Gateway Mastering"
+      ],
+      "master_id": 603664,
+      "type": "master",
+      "format": [
+        "DVD",
+        "DVD-Video",
+        "NTSC"
+      ],
+      "barcode": [
+        "6 02537 50299 8",
+        "(553479) B001904009 02 0001",
+        "(553480) B001904009 02 0103",
+        "IFPI L779",
+        "IFPI KK2W",
+        "IFPI KK7F"
+      ],
+      "master_url": "https://api.discogs.com/masters/603664",
+      "genre": [
+        "Rock"
+      ],
+      "country": "US",
+      "uri": "/Nirvana-Live-And-Loud/master/603664",
+      "cover_image": "https://img.discogs.com/ZwWxsQq9BQ70ycgVxC_Tmu0caEg=/fit-in/237x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5032543-1382649095-8415.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/603664"
+    },
+    {
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/MG-YEHCvv5XkT3sCzHhdNMFGUgg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-641768-1163358008.jpeg.jpg",
+      "uri": "/Nirvana-Saturday-Night-Live/master/634882",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "Unofficial Release"
+      ],
+      "country": "Unknown",
+      "barcode": [],
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "master_url": "https://api.discogs.com/masters/634882",
+      "label": [
+        "Not On Label (Nirvana)"
+      ],
+      "cover_image": "https://img.discogs.com/CtwRB3E9qhfBZQd7gz0i2L6sDSs=/fit-in/350x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-641768-1163358008.jpeg.jpg",
+      "catno": "none",
+      "community": {
+        "have": 142,
+        "want": 174
+      },
+      "genre": [
+        "Rock"
+      ],
+      "title": "Nirvana - Saturday Night Live",
+      "resource_url": "https://api.discogs.com/masters/634882",
+      "master_id": 634882,
+      "type": "master",
+      "id": 634882
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 3483,
+        "want": 778
+      },
+      "catno": "B0003727-00",
+      "year": "2004",
+      "id": 42482,
+      "style": [
+        "Alternative Rock",
+        "Folk Rock",
+        "Lo-Fi",
+        "Punk",
+        "Stoner Rock",
+        "Acoustic"
+      ],
+      "thumb": "https://img.discogs.com/NnmdbExr6p6L-Rzh9HpQpabwI_o=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-983454-1192860909.jpeg.jpg",
+      "title": "Nirvana - With The Lights Out",
+      "label": [
+        "DGC",
+        "Geffen Records",
+        "Geffen Records",
+        "Universal Music & Video Distribution, Corp.",
+        "UML",
+        "Universal",
+        "Reciprocal Recording",
+        "The Community World Theatre",
+        "The Evergreen State College",
+        "The Music Source",
+        "Smart Studios",
+        "Sound City Studios",
+        "Laundry Room Studio",
+        "Word Of Mouth Studios",
+        "BMG Ariola Studios",
+        "Pachyderm Studio",
+        "Rhino Records",
+        "Bogart's, Long Beach, CA",
+        "The Motor Sports International Garage",
+        "The North Shore Surf Club",
+        "The OK Hotel",
+        "Paramount Theatre, Seattle",
+        "Crocodile Cafe",
+        "BMG Ariola Studios",
+        "The End Of Music",
+        "EMI Music Publishing"
+      ],
+      "master_id": 42482,
+      "type": "master",
+      "format": [
+        "CD",
+        "Compilation",
+        "DVD",
+        "DVD-Video",
+        "NTSC",
+        "Box Set"
+      ],
+      "barcode": [
+        "6 02498 64664 9",
+        "B00065XJ4S",
+        "B0003727-00 CD01",
+        "B00 037 2700CD01 02$ M UNIVERSAL",
+        "MADE IN USA",
+        "IFPI L009",
+        "IFPI 0356",
+        "B0003727-00 CD02",
+        "B00 037 2700CD03 02$ N UNIVERSAL",
+        "MADE IN USA BY UML",
+        "IFPI L009",
+        "IFPI 0398",
+        "B0003727-00 CD03",
+        "B00 037 2700CD02 01$ A UNIVERSAL",
+        "MADE IN USA BY UML",
+        "IFPI L007",
+        "IFPI 0342",
+        "B0003727-00 DV01",
+        "B000372700RE1 D3N 24 C5A0P",
+        "IFPI L250",
+        "B0003814-00 BB"
+      ],
+      "master_url": "https://api.discogs.com/masters/42482",
+      "genre": [
+        "Rock"
+      ],
+      "country": "US",
+      "uri": "/Nirvana-With-The-Lights-Out/master/42482",
+      "cover_image": "https://img.discogs.com/jYmyzuqNjdGDRLbcrmQlWtFPvdM=/fit-in/600x344/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-983454-1192860909.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/42482"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 43235,
+        "want": 53707
+      },
+      "catno": "DGCD-24607",
+      "year": "1993",
+      "id": 13859,
+      "style": [
+        "Grunge",
+        "Alternative Rock"
+      ],
+      "thumb": "https://img.discogs.com/dqwbwQ23fqJkd4K_SVAbHfJA-d8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-375979-1491700347-7263.jpeg.jpg",
+      "title": "Nirvana - In Utero",
+      "label": [
+        "DGC",
+        "Sub Pop",
+        "Geffen Records, Inc.",
+        "Geffen Records, Inc.",
+        "Uni Distribution Corp.",
+        "Uni Distribution Corp.",
+        "DADC",
+        "Virgin Songs, Inc.",
+        "The End Of Music"
+      ],
+      "master_id": 13859,
+      "type": "master",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "barcode": [
+        "7 20642 46072 6",
+        "720642460726",
+        "AAD",
+        "DIDX-018824 3",
+        "DIDX-018824 4",
+        "DIDX-018824 6"
+      ],
+      "master_url": "https://api.discogs.com/masters/13859",
+      "genre": [
+        "Rock"
+      ],
+      "country": "US",
+      "uri": "/Nirvana-In-Utero/master/13859",
+      "cover_image": "https://img.discogs.com/PgYUflMvzbRyB4eMLP30KEqG0rg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-375979-1491700347-7263.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/13859"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 13,
+        "want": 45
+      },
+      "catno": "WIP-6052",
+      "year": "1969",
+      "id": 703717,
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "thumb": "https://img.discogs.com/Ql5FeWw8Dzqg4QGYVIjEbSXCNtw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4240813-1360087568-4822.jpeg.jpg",
+      "title": "Nirvana (2) - Wings Of Love / Requiem To John Coltrane",
+      "label": [
+        "Island Records",
+        "Blue Mountain Music",
+        "Enquiry Music"
+      ],
+      "master_id": 703717,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Single"
+      ],
+      "barcode": [
+        "wipx 1002",
+        "wipx 1003",
+        "WIPX+1002",
+        "WIPX+1003"
+      ],
+      "master_url": "https://api.discogs.com/masters/703717",
+      "genre": [
+        "Rock"
+      ],
+      "country": "UK",
+      "uri": "/Nirvana-Wings-Of-Love-Requiem-To-John-Coltrane/master/703717",
+      "cover_image": "https://img.discogs.com/EtRDd7olY1DhA8Fzw16_Cyt3b7Q=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4240813-1360087568-4822.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/703717"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 325,
+        "want": 172
+      },
+      "catno": "GFLP 076",
+      "year": "1994",
+      "id": 180701,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/g860fs2Hv8cJViXqJvCu9PGd_Ic=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1205800-1495286686-5050.jpeg.jpg",
+      "title": "Nirvana - Verse Chorus Verse",
+      "label": [
+        "Giffen"
+      ],
+      "master_id": 180701,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Compilation",
+        "Unofficial Release"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/180701",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Unknown",
+      "uri": "/Nirvana-Verse-Chorus-Verse/master/180701",
+      "cover_image": "https://img.discogs.com/CJzVxsP0YrgrufiHrU43C3zwMIo=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1205800-1495286686-5050.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/180701"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 12,
+        "want": 19
+      },
+      "catno": "SC-NR-001 / SC-NR-002",
+      "year": "1996",
+      "id": 1123202,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/I5I155JtK5NbkmDIJR0kbWK_V48=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3279705-1323694087.jpeg.jpg",
+      "title": "Nirvana - In Memory Of \"Kurdt Kobain\"",
+      "label": [
+        "Small Clone"
+      ],
+      "master_id": 1123202,
+      "type": "master",
+      "format": [
+        "CD",
+        "Compilation",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "SC-NR-001 501986X IFPI L601",
+        "SC-NR-002 69916X IFPI L601",
+        "IFPI L601"
+      ],
+      "master_url": "https://api.discogs.com/masters/1123202",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Japan",
+      "uri": "/Nirvana-In-Memory-Of-Kurdt-Kobain/master/1123202",
+      "cover_image": "https://img.discogs.com/vMFdZKRHupah4mar8PNPwi9BSgA=/fit-in/354x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3279705-1323694087.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/1123202"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 9,
+        "want": 10
+      },
+      "catno": "SC-NR-009",
+      "year": "1996",
+      "id": 1123212,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/2klFHqf7Qc4HTijaAlVDQGSZziU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3279729-1323694995.jpeg.jpg",
+      "title": "Nirvana - In Memory Of \"Kurdt Kobain\" 2",
+      "label": [
+        "Small Clone"
+      ],
+      "master_id": 1123212,
+      "type": "master",
+      "format": [
+        "CD",
+        "Compilation",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "SC-NR-009 24099X IFPI L602",
+        "IFPI L602"
+      ],
+      "master_url": "https://api.discogs.com/masters/1123212",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Japan",
+      "uri": "/Nirvana-In-Memory-Of-Kurdt-Kobain-2/master/1123212",
+      "cover_image": "https://img.discogs.com/-m6fHFKzfcw8beEWNEz3xq9MvDo=/fit-in/357x349/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3279729-1323694995.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/1123212"
+    },
+    {
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/3AdMIOlM8Q3mhG4t83lh55lEqPw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2195621-1269184617.jpeg.jpg",
+      "uri": "/Nirvana-Coming-Down-Heavy/master/235067",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Unofficial Release"
+      ],
+      "country": "Unknown",
+      "barcode": [],
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "master_url": "https://api.discogs.com/masters/235067",
+      "label": [
+        "Blood Brethe",
+        "Blood Brethe"
+      ],
+      "cover_image": "https://img.discogs.com/Ta4R-NhaOhrFmL4UJKDkj0s2Bgs=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2195621-1269184617.jpeg.jpg",
+      "catno": "BBRC-07921",
+      "community": {
+        "have": 94,
+        "want": 55
+      },
+      "genre": [
+        "Rock"
+      ],
+      "title": "Nirvana - Coming Down Heavy",
+      "resource_url": "https://api.discogs.com/masters/235067",
+      "master_id": 235067,
+      "type": "master",
+      "id": 235067
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 314,
+        "want": 82
+      },
+      "catno": "1-23720",
+      "year": "1992",
+      "id": 783562,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/VcT7s_Y-ZOyuw1YMEqMMjxfKh-M=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-641783-1421195120-8590.jpeg.jpg",
+      "title": "Nirvana - Total Fucking Godhead",
+      "label": [
+        "Delirious"
+      ],
+      "master_id": 783562,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Promo",
+        "Unofficial Release"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/783562",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Unknown",
+      "uri": "/Nirvana-Total-Fucking-Godhead/master/783562",
+      "cover_image": "https://img.discogs.com/kONtmj562V5MCN9uoOIPNcOJGqk=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-641783-1421195120-8590.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/783562"
+    },
+    {
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/PPLaNSZLFPm6LJGv3L1Pf7ltkAA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8410719-1461075723-2427.jpeg.jpg",
+      "uri": "/Nirvana-MP3-Collection/master/1182291",
+      "format": [
+        "CD",
+        "CD-ROM",
+        "Compilation",
+        "Unofficial Release"
+      ],
+      "country": "Russia",
+      "barcode": [
+        "2114029859544",
+        "H19166"
+      ],
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "master_url": "https://api.discogs.com/masters/1182291",
+      "label": [
+        "FullHouse Records"
+      ],
+      "cover_image": "https://img.discogs.com/LsvzoycYIPpgoSh2D3HuLvT5z24=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8410719-1461075723-2427.jpeg.jpg",
+      "catno": "H19166",
+      "community": {
+        "have": 0,
+        "want": 1
+      },
+      "genre": [
+        "Rock"
+      ],
+      "title": "Nirvana - MP3 Collection",
+      "resource_url": "https://api.discogs.com/masters/1182291",
+      "master_id": 1182291,
+      "type": "master",
+      "id": 1182291
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 16,
+        "want": 6
+      },
+      "catno": "CRP1881",
+      "year": "2005",
+      "id": 914287,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/v6DiYcxyVnJH0T-0WvqDDyTaooQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2864787-1378448980-8816.jpeg.jpg",
+      "title": "Nirvana - Nirvana 1989-1996",
+      "label": [
+        "Music Reviews Ltd"
+      ],
+      "master_id": 914287,
+      "type": "master",
+      "format": [
+        "DVD",
+        "DVD-Video",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "823880020315"
+      ],
+      "master_url": "https://api.discogs.com/masters/914287",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Europe",
+      "uri": "/Nirvana-Nirvana-1989-1996/master/914287",
+      "cover_image": "https://img.discogs.com/ghFLOGnYT1HYXbY2tPvbWX3QhBw=/fit-in/383x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2864787-1378448980-8816.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/914287"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 118,
+        "want": 41
+      },
+      "catno": "VIS-09319",
+      "year": "2014",
+      "id": 910054,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/OKq1B-qFzpihyuZI7K_JOR_uHwM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7116091-1435319232-5889.jpeg.jpg",
+      "title": "Nirvana - Maybe You Live Twice",
+      "label": [
+        "Visible Records"
+      ],
+      "master_id": 910054,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Compilation",
+        "Limited Edition",
+        "Numbered",
+        "Test Pressing",
+        "Unofficial Release"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/910054",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Czech Republic",
+      "uri": "/Nirvana-Maybe-You-Live-Twice/master/910054",
+      "cover_image": "https://img.discogs.com/za5ecMsQQVsxQolMQx4_EVOdn-w=/fit-in/600x375/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7116091-1435319232-5889.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/910054"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 103,
+        "want": 39
+      },
+      "catno": "KIRI 061",
+      "year": "1988",
+      "id": 910255,
+      "style": [
+        "Pop Rock"
+      ],
+      "thumb": "https://img.discogs.com/haGqQmuzfsK180BEvmeO1dAbFOs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1646226-1420837947-9916.jpeg.jpg",
+      "title": "Nirvana (2) - Black Flower",
+      "label": [
+        "Bam-Caruso Records",
+        "Revolver",
+        "The Cartel",
+        "Revolver",
+        "The Cartel",
+        "Copyright Control",
+        "Blue Mountain Music",
+        "Zebra Music",
+        "MPO"
+      ],
+      "master_id": 910255,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Compilation"
+      ],
+      "barcode": [
+        "KIRI 061 A1   MPO",
+        "KIRI 061 B1   MPO"
+      ],
+      "master_url": "https://api.discogs.com/masters/910255",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "country": "UK",
+      "uri": "/Nirvana-Black-Flower/master/910255",
+      "cover_image": "https://img.discogs.com/53Kj8u_vF2Vj_lPvGTkadKGfhhs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1646226-1420837947-9916.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/910255"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 156,
+        "want": 100
+      },
+      "catno": "RR88871 / RR88872",
+      "year": "1991",
+      "id": 115188,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/33meJ57MoIANZrFOK9HHlaM664o=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-927935-1258279128.jpeg.jpg",
+      "title": "Nirvana - John Peel Session",
+      "label": [
+        "Not On Label (Nirvana)"
+      ],
+      "master_id": 115188,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "Unofficial Release"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/115188",
+      "genre": [
+        "Rock"
+      ],
+      "country": "UK",
+      "uri": "/Nirvana-John-Peel-Session/master/115188",
+      "cover_image": "https://img.discogs.com/DuLEpEMRaN79AUte6SC95IKaLoE=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-927935-1258279128.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/115188"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 49,
+        "want": 28
+      },
+      "catno": "PSCD 1181",
+      "year": "1992",
+      "id": 115211,
+      "style": [
+        "Alternative Rock",
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/naHng--iVC1TkaQyoLoBrtoBgio=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-832561-1468019109-4680.jpeg.jpg",
+      "title": "Nirvana - Smells Like Punk Spirit",
+      "label": [
+        "Post Script"
+      ],
+      "master_id": 115211,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "PSCD 1181 PHC",
+        "SIAE"
+      ],
+      "master_url": "https://api.discogs.com/masters/115211",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Italy",
+      "uri": "/Nirvana-Smells-Like-Punk-Spirit/master/115211",
+      "cover_image": "https://img.discogs.com/yj6kX5N5_tLy0tv5uleIC9fxOH4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-832561-1468019109-4680.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/115211"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 5,
+        "want": 11
+      },
+      "catno": "DL-08",
+      "year": "1994",
+      "id": 737953,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/l0FfuUUaYTwNE-Q0s0AOq0UBJvg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10208627-1502286938-2928.jpeg.jpg",
+      "title": "Nirvana - Dynamic Live",
+      "label": [
+        "Apple House Music",
+        "Dynamic Live",
+        "The Super Star Best Selection"
+      ],
+      "master_id": 737953,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "CHER-056 *828*",
+        "AMCOS"
+      ],
+      "master_url": "https://api.discogs.com/masters/737953",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Australia",
+      "uri": "/Nirvana-Dynamic-Live/master/737953",
+      "cover_image": "https://img.discogs.com/lOiCWx3WivjSwq8wp28X_wyaAqQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10208627-1502286938-2928.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/737953"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 104,
+        "want": 58
+      },
+      "catno": "none",
+      "year": "1992",
+      "id": 536855,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/R_62oaZX0RcHj0p8NSKF3epfJ8E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2083305-1263049931.jpeg.jpg",
+      "title": "Nirvana - Demos",
+      "label": [
+        "Not On Label (Nirvana)"
+      ],
+      "master_id": 536855,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "Unofficial Release",
+        "White Label"
+      ],
+      "barcode": [
+        "NRV 045-A",
+        "NRV 045-B"
+      ],
+      "master_url": "https://api.discogs.com/masters/536855",
+      "genre": [
+        "Rock"
+      ],
+      "country": "US",
+      "uri": "/Nirvana-Demos/master/536855",
+      "cover_image": "https://img.discogs.com/BHte7HCfdDplBAipvBQqCZgqqhE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2083305-1263049931.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/536855"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 84,
+        "want": 112
+      },
+      "catno": "BGS 033/2",
+      "year": "1994",
+      "id": 391729,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/TmuZfA9Zl7FumuI61fYfb4by2z0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1026110-1441305894-1362.jpeg.jpg",
+      "title": "Nirvana - Va Te Faire Enculer",
+      "label": [
+        "Bugsy Records"
+      ],
+      "master_id": 391729,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "CD COMPANY ITALY LBR031/2/A",
+        "CD COMPANY ITALY LBR031/2/B",
+        "S.I.A.E."
+      ],
+      "master_url": "https://api.discogs.com/masters/391729",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Italy",
+      "uri": "/Nirvana-Va-Te-Faire-Enculer/master/391729",
+      "cover_image": "https://img.discogs.com/XqQyPGfCo7_YF2SGPSZRl399MSs=/fit-in/600x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1026110-1441305894-1362.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/391729"
+    },
+    {
+      "style": [
+        "Alternative Rock"
+      ],
+      "thumb": "https://img.discogs.com/dDHVN6WV1rJFPGOncLykXzUaNhg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3492194-1332847706.jpeg.jpg",
+      "uri": "/Nirvana-Talk-To-Me-1989-1993/master/658215",
+      "format": [
+        "DVD",
+        "DVD-Video",
+        "PAL",
+        "Unofficial Release"
+      ],
+      "country": "Germany",
+      "barcode": [
+        "4250079731725",
+        "DVD RECORDS MP 42072 NIRVANA"
+      ],
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "master_url": "https://api.discogs.com/masters/658215",
+      "label": [
+        "Masterplan",
+        "Sub Pop",
+        "Masterplan"
+      ],
+      "cover_image": "https://img.discogs.com/5Ckyql3KHOQcddfZGmxosOcqdNI=/fit-in/600x843/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3492194-1332847706.jpeg.jpg",
+      "catno": "MP 42072",
+      "community": {
+        "have": 62,
+        "want": 14
+      },
+      "genre": [
+        "Rock"
+      ],
+      "title": "Nirvana - Talk To Me 1989-1993",
+      "resource_url": "https://api.discogs.com/masters/658215",
+      "master_id": 658215,
+      "type": "master",
+      "id": 658215
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 157,
+        "want": 137
+      },
+      "catno": "PRO-CD-4382",
+      "year": "1992",
+      "id": 958122,
+      "style": [
+        "Interview",
+        "Grunge",
+        "Alternative Rock"
+      ],
+      "thumb": "https://img.discogs.com/xkSYcbKJ9rzxKGwsd58-owzQAcA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2255312-1378020655-3638.jpeg.jpg",
+      "title": "Nirvana - Nevermind, It's An Interview",
+      "label": [
+        "DGC",
+        "Sub Pop",
+        "Uni Distribution Corp.",
+        "Uni Distribution Corp.",
+        "The David Geffen Company",
+        "The David Geffen Company",
+        "Specialty Records Corporation"
+      ],
+      "master_id": 958122,
+      "type": "master",
+      "format": [
+        "CD",
+        "Promo"
+      ],
+      "barcode": [
+        "38 PRO CD 4382-2 SRC*01 M1S2"
+      ],
+      "master_url": "https://api.discogs.com/masters/958122",
+      "genre": [
+        "Rock",
+        "Non-Music"
+      ],
+      "country": "US",
+      "uri": "/Nirvana-Nevermind-Its-An-Interview/master/958122",
+      "cover_image": "https://img.discogs.com/HEWvchb1rzOtnUm9LdCp91hFwlA=/fit-in/500x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2255312-1378020655-3638.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/958122"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 4,
+        "want": 11
+      },
+      "catno": "NVRD 02",
+      "year": "2005",
+      "id": 1078853,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/_4T-MLtXSwrE1LQB8xZy-8eXYOk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4408913-1364119839-3402.jpeg.jpg",
+      "title": "Nirvana - The MTV Files - Uncut",
+      "label": [
+        "Vintage Nirvana Recordings",
+        "Nirvana Vintage Recordings Ltd.",
+        "Vintage Nirvana Recordings",
+        "Vintage Nirvana Recordings",
+        "Nirvana Vintage Recordings Ltd.",
+        "MTV Studios",
+        "Sony Music Studios, New York City",
+        "Pier 48"
+      ],
+      "master_id": 1078853,
+      "type": "master",
+      "format": [
+        "DVD",
+        "DVD-Video",
+        "NTSC",
+        "Unofficial Release"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/1078853",
+      "genre": [
+        "Rock"
+      ],
+      "country": "UK",
+      "uri": "/Nirvana-The-MTV-Files-Uncut/master/1078853",
+      "cover_image": "https://img.discogs.com/2FOa5GuIOhkl8smQFDJbxz70BEg=/fit-in/359x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4408913-1364119839-3402.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/1078853"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 66,
+        "want": 40
+      },
+      "catno": "FK-3032",
+      "year": "1969",
+      "id": 649592,
+      "style": [
+        "Psychedelic Rock",
+        "Classic Rock"
+      ],
+      "thumb": "https://img.discogs.com/7ZjPzlxQFPDHh2eLTUA8gQd96lU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5359118-1426591730-3254.jpeg.jpg",
+      "title": "Nirvana (2) - Oh! What A Performance / Darling Darlane",
+      "label": [
+        "Festival Records",
+        "Festival Records Pty. Ltd."
+      ],
+      "master_id": 649592,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Single"
+      ],
+      "barcode": [
+        "MX31147",
+        "MX31148",
+        "MX31147",
+        "WIP-6057",
+        "MX31148",
+        "WIP-6057"
+      ],
+      "master_url": "https://api.discogs.com/masters/649592",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Australia",
+      "uri": "/Nirvana-Oh-What-A-Performance-Darling-Darlane/master/649592",
+      "cover_image": "https://img.discogs.com/mSAcTztNRPMw6OgBebttpTrPws4=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5359118-1426591730-3254.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/649592"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 4,
+        "want": 9
+      },
+      "catno": "none",
+      "year": "2015",
+      "id": 1015779,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/m3VXTq1vrtzSMTN04C5B3eDXHTw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7933573-1465984510-6626.jpeg.jpg",
+      "title": "Nirvana - Fucked Up In UK 1992",
+      "label": [
+        "Negative Creep Records"
+      ],
+      "master_id": 1015779,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Numbered",
+        "Unofficial Release"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/1015779",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Europe",
+      "uri": "/Nirvana-Fucked-Up-In-UK-1992/master/1015779",
+      "cover_image": "https://img.discogs.com/MgSZqE3XUm8ZSymkYqjQmqNu_TE=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7933573-1465984510-6626.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/1015779"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 9,
+        "want": 3
+      },
+      "catno": "CRP2274",
+      "year": "2006",
+      "id": 1089580,
+      "style": [
+        "Grunge",
+        "Interview"
+      ],
+      "thumb": "https://img.discogs.com/E4HF48D-GpaKss74ExKRGy2z2PI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9348032-1479029059-3859.jpeg.jpg",
+      "title": "Nirvana - The Definitive Critical Review",
+      "label": [
+        "Ragnarock Films Ltd",
+        "Saturday Night Live",
+        "Sandbeach Holdings Ltd"
+      ],
+      "master_id": 1089580,
+      "type": "master",
+      "format": [
+        "DVD",
+        "DVD-Video",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "8 23880 02274 6",
+        "0823880022746"
+      ],
+      "master_url": "https://api.discogs.com/masters/1089580",
+      "genre": [
+        "Rock",
+        "Non-Music"
+      ],
+      "country": "UK",
+      "uri": "/Nirvana-The-Definitive-Critical-Review/master/1089580",
+      "cover_image": "https://img.discogs.com/atK7AfFYtCB_JtBy2tPRNiCd09w=/fit-in/377x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9348032-1479029059-3859.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/1089580"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 11,
+        "want": 9
+      },
+      "catno": "AS 26",
+      "year": "2004",
+      "id": 1172425,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/gBPx8zdn98g622h79z5EbXP21Uw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5327832-1396555640-1214.jpeg.jpg",
+      "title": "Nirvana - About A Boy",
+      "label": [
+        "Apocalypse Sound",
+        "Il Castello Vi De Porta",
+        "Canal+"
+      ],
+      "master_id": 1172425,
+      "type": "master",
+      "format": [
+        "DVD",
+        "DVD-Video",
+        "NTSC",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "02112004026",
+        "AS26"
+      ],
+      "master_url": "https://api.discogs.com/masters/1172425",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Italy",
+      "uri": "/Nirvana-About-A-Boy/master/1172425",
+      "cover_image": "https://img.discogs.com/PhCJ9cCsx4sS6G4sC2mGJU6Bc_E=/fit-in/441x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5327832-1396555640-1214.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/1172425"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 53,
+        "want": 49
+      },
+      "catno": "PRO-CD-1070",
+      "year": "1996",
+      "id": 1419919,
+      "style": [
+        "Grunge",
+        "Alternative Rock"
+      ],
+      "thumb": "https://img.discogs.com/o9qfjihI78pSOMrv4Xy92eXFSH4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2255278-1461313663-4103.jpeg.jpg",
+      "title": "Nirvana - Drain You",
+      "label": [
+        "DGC"
+      ],
+      "master_id": 1419919,
+      "type": "master",
+      "format": [
+        "CD",
+        "Promo"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/1419919",
+      "genre": [
+        "Rock"
+      ],
+      "country": "US",
+      "uri": "/Nirvana-Drain-You/master/1419919",
+      "cover_image": "https://img.discogs.com/RCd5276d-tVH5vAwdHQuhIUbWJ4=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2255278-1461313663-4103.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/1419919"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 613,
+        "want": 252
+      },
+      "catno": "GED - 21958",
+      "year": "1994",
+      "id": 42471,
+      "style": [
+        "Acoustic",
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/qXhhQsOE2oZrHAUqj-bO8eqwNL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1569602-1229162048.jpeg.jpg",
+      "title": "Nirvana - About A Girl",
+      "label": [
+        "Geffen Records",
+        "Geffen Records, Inc.",
+        "Geffen Records, Inc.",
+        "BMG",
+        "SNA",
+        "EMI Virgin Songs, Inc.",
+        "The End Of Music"
+      ],
+      "master_id": 42471,
+      "type": "master",
+      "format": [
+        "CD",
+        "Single"
+      ],
+      "barcode": [
+        "7 20642 19582 6",
+        "720642195826",
+        "SNA GED 21958 02039506 SNA",
+        "SNA GED 21958 10149401 SNA",
+        "SACEM SACD SDRM SGDL",
+        "BM 690",
+        "AAD"
+      ],
+      "master_url": "https://api.discogs.com/masters/42471",
+      "genre": [
+        "Rock"
+      ],
+      "country": "France",
+      "uri": "/Nirvana-About-A-Girl/master/42471",
+      "cover_image": "https://img.discogs.com/FRcfjJqrFg3cgjciY3-bsrCE1D4=/fit-in/548x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1569602-1229162048.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/42471"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 1957,
+        "want": 677
+      },
+      "catno": "B0005617-02",
+      "year": "2005",
+      "id": 42484,
+      "style": [
+        "Alternative Rock",
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/CSx6i4ormSu0qLkSyoTZeq9hEFA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-590533-1453411212-2094.jpeg.jpg",
+      "title": "Nirvana - Sliver: The Best Of The Box",
+      "label": [
+        "Geffen Records",
+        "Geffen Records",
+        "Geffen Records",
+        "UMe",
+        "Universal Music & Video Distribution, Corp.",
+        "The End Of Music"
+      ],
+      "master_id": 42484,
+      "type": "master",
+      "format": [
+        "CD",
+        "Compilation"
+      ],
+      "barcode": [
+        "6 02498 86718 1",
+        "(UD63745) B000561702 1D",
+        "IFPI L435",
+        "IFPI 7496",
+        "IFPI 7499",
+        "IFPI 7497"
+      ],
+      "master_url": "https://api.discogs.com/masters/42484",
+      "genre": [
+        "Rock"
+      ],
+      "country": "US",
+      "uri": "/Nirvana-Sliver-The-Best-Of-The-Box/master/42484",
+      "cover_image": "https://img.discogs.com/rk5W5LHy3V0E7_UedaWquOtQuHk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590533-1453411212-2094.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/42484"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 354,
+        "want": 731
+      },
+      "catno": "6360031",
+      "year": "1971",
+      "id": 278857,
+      "style": [
+        "Art Rock",
+        "Psychedelic Rock"
+      ],
+      "thumb": "https://img.discogs.com/cT2q9Lsv7E3OSJPOikROCHEvF9U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2702602-1530801191-6622.jpeg.jpg",
+      "title": "Nirvana (2) - Local Anaesthetic",
+      "label": [
+        "Vertigo",
+        "Vertigo",
+        "Island Studios"
+      ],
+      "master_id": 278857,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "barcode": [
+        "6360 031.2",
+        "VO"
+      ],
+      "master_url": "https://api.discogs.com/masters/278857",
+      "genre": [
+        "Rock"
+      ],
+      "country": "UK",
+      "uri": "/Nirvana-Local-Anaesthetic/master/278857",
+      "cover_image": "https://img.discogs.com/TPc9c0xH-P9fTuxMs3goB4NuwY0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2702602-1530801191-6622.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/278857"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 716,
+        "want": 188
+      },
+      "catno": "SGM 9505-4",
+      "year": "1995",
+      "id": 497086,
+      "style": [
+        "Alternative Rock",
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/7dRWvh_RjUAYxnKO_w926GfX5Bs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-832575-1453753083-9666.jpeg.jpg",
+      "title": "Nirvana - Kurko",
+      "label": [
+        "Sounds Good Mate"
+      ],
+      "master_id": 497086,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "SGM 9505-4"
+      ],
+      "master_url": "https://api.discogs.com/masters/497086",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Unknown",
+      "uri": "/Nirvana-Kurko/master/497086",
+      "cover_image": "https://img.discogs.com/D91_TyphPt0LCPm7ClxvqdfAnME=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-832575-1453753083-9666.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/497086"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 117,
+        "want": 15
+      },
+      "catno": "VM 001",
+      "year": "1994",
+      "id": 658223,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/LiofGR6W7fEFYrWnESlF3pELtJU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1704572-1443378997-3566.jpeg.jpg",
+      "title": "Nirvana - Unplugged & More ...",
+      "label": [
+        "Venus Music",
+        "Venus Music",
+        "Venus Music"
+      ],
+      "master_id": 658223,
+      "type": "master",
+      "format": [
+        "CD",
+        "Compilation",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "5450162777015",
+        "ACUM / BIEM",
+        "DDD",
+        "VM 001 A11"
+      ],
+      "master_url": "https://api.discogs.com/masters/658223",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Europe",
+      "uri": "/Nirvana-Unplugged-More-/master/658223",
+      "cover_image": "https://img.discogs.com/b3vRnjvDx3TO6FOY6Z6zgPqia9s=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1704572-1443378997-3566.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/658223"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 722,
+        "want": 179
+      },
+      "catno": "none",
+      "year": "2012",
+      "id": 432248,
+      "style": [
+        "Alternative Rock"
+      ],
+      "thumb": "https://img.discogs.com/yy-7O9nrDQEgPR6hqYRJKKoVx6U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3506694-1333154320.jpeg.jpg",
+      "title": "Nirvana - Almost Everything - The BBC Sessions",
+      "label": [
+        "Marble Four"
+      ],
+      "master_id": 432248,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Compilation",
+        "Unofficial Release"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/432248",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Italy",
+      "uri": "/Nirvana-Almost-Everything-The-BBC-Sessions/master/432248",
+      "cover_image": "https://img.discogs.com/03UE5FjKxcX_ymxAy2u4QZKr088=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3506694-1333154320.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/432248"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 310,
+        "want": 95
+      },
+      "catno": "B0014690-02",
+      "year": "2010",
+      "id": 651690,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/viEIM9yIQYQB2PyuK57dQDqzO08=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5378642-1391909786-9805.jpeg.jpg",
+      "title": "Nirvana - Icon",
+      "label": [
+        "Geffen Records",
+        "UMe",
+        "Icon",
+        "Universal Music Distribution",
+        "Geffen Records",
+        "Geffen Records"
+      ],
+      "master_id": 651690,
+      "type": "master",
+      "format": [
+        "CD",
+        "Compilation"
+      ],
+      "barcode": [
+        "602527473260",
+        "IFPI L320",
+        "IFPI 5080",
+        "IFPI 50A3",
+        "DIDX-474021 1"
+      ],
+      "master_url": "https://api.discogs.com/masters/651690",
+      "genre": [
+        "Rock"
+      ],
+      "country": "US",
+      "uri": "/Nirvana-Icon/master/651690",
+      "cover_image": "https://img.discogs.com/ZsOtDL7St2vtC_v_KOmhEDRBuKA=/fit-in/475x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5378642-1391909786-9805.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/651690"
+    },
+    {
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/ltunQYxdJC1277Yk3qML6VXYUDU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-609002-1224848837.jpeg.jpg",
+      "uri": "/Nirvana-Wipeout/master/115215",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Compilation",
+        "Unofficial Release",
+        "White Label"
+      ],
+      "country": "Unknown",
+      "barcode": [
+        "NIRVA - 001 A 2",
+        "NIRVA - 001 B 1"
+      ],
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "master_url": "https://api.discogs.com/masters/115215",
+      "label": [
+        "Big Wave Records",
+        "Big Wave Records",
+        "Big Wave Records"
+      ],
+      "cover_image": "https://img.discogs.com/ed2nC_ip78B6VCOOZzxIJwSEmgs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-609002-1224848837.jpeg.jpg",
+      "catno": "nirva 001",
+      "community": {
+        "have": 492,
+        "want": 82
+      },
+      "genre": [
+        "Rock"
+      ],
+      "title": "Nirvana - Wipeout",
+      "resource_url": "https://api.discogs.com/masters/115215",
+      "master_id": 115215,
+      "type": "master",
+      "id": 115215
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 229,
+        "want": 50
+      },
+      "catno": "FBD-008",
+      "year": "2014",
+      "id": 819408,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/d40XI3Q-cKyCouTCiXz_A7ymyHA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6402335-1418353363-2500.jpeg.jpg",
+      "title": "Nirvana - Damage, Mon Amour",
+      "label": [
+        "Farmboy Discaria"
+      ],
+      "master_id": 819408,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Compilation",
+        "Unofficial Release"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/819408",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Italy",
+      "uri": "/Nirvana-Damage-Mon-Amour/master/819408",
+      "cover_image": "https://img.discogs.com/yEPw4LLRurMG-dLyGmyzB9nGK4s=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6402335-1418353363-2500.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/819408"
+    },
+    {
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/f1LHoCbn33p0qXfRPyIZER_ye7E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3231945-1520793881-8511.jpeg.jpg",
+      "uri": "/Nirvana-Roma-94/master/536822",
+      "format": [
+        "Vinyl",
+        "Picture Disc",
+        "Unofficial Release",
+        "LP"
+      ],
+      "country": "Italy",
+      "barcode": [],
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "master_url": "https://api.discogs.com/masters/536822",
+      "label": [
+        "Discomagic Records"
+      ],
+      "cover_image": "https://img.discogs.com/s8OKNX301BQLwOT5_bQjWNpERLU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3231945-1520793881-8511.jpeg.jpg",
+      "catno": "PD 2317",
+      "community": {
+        "have": 0,
+        "want": 0
+      },
+      "genre": [
+        "Rock"
+      ],
+      "title": "Nirvana - Roma '94",
+      "resource_url": "https://api.discogs.com/masters/536822",
+      "master_id": 536822,
+      "type": "master",
+      "id": 536822
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 88,
+        "want": 22
+      },
+      "catno": "P 910007",
+      "year": "1992",
+      "id": 790600,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/-yHmdY0B3Z9ZTjHx63-3dTMu4W4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-618881-1424989021-1827.jpeg.jpg",
+      "title": "Nirvana - Live Dallas '91",
+      "label": [
+        "Co Co Records",
+        "Co Co Records",
+        "St. Andrew's Hall"
+      ],
+      "master_id": 790600,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "DIGIP P 910007 ",
+        "GEMA"
+      ],
+      "master_url": "https://api.discogs.com/masters/790600",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Germany",
+      "uri": "/Nirvana-Live-Dallas-91/master/790600",
+      "cover_image": "https://img.discogs.com/zCRhEQoFYP-AZUyMGnahcudNH94=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-618881-1424989021-1827.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/790600"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 34,
+        "want": 28
+      },
+      "catno": "SC-NR-007",
+      "year": "1996",
+      "id": 789267,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/vJOUcPEB3qms-N9wlO1KBhVoZZM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1875468-1492259409-8313.jpeg.jpg",
+      "title": "Nirvana - Supercolossal Big Muff",
+      "label": [
+        "Small Clone",
+        "The University Of Washington, Seattle"
+      ],
+      "master_id": 789267,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "SC-NR-007 23934X IFPI L602",
+        "IFPI L602"
+      ],
+      "master_url": "https://api.discogs.com/masters/789267",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Japan",
+      "uri": "/Nirvana-Supercolossal-Big-Muff/master/789267",
+      "cover_image": "https://img.discogs.com/7ac9hF1oES-urIj8VBgnlieJBEM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1875468-1492259409-8313.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/789267"
+    },
+    {
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/TtWYAm4UYOFVAay1owpvHzBQ96w=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2881506-1494156878-2917.jpeg.jpg",
+      "uri": "/Nirvana-In-Extremis-Nirvana-Remixed/master/762662",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "country": "Germany",
+      "barcode": [
+        "FF CD 008",
+        "GEMA"
+      ],
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "master_url": "https://api.discogs.com/masters/762662",
+      "label": [
+        "Forbidden Fruit"
+      ],
+      "cover_image": "https://img.discogs.com/7w_eBwwcuzNMoWNKpjsYFNFM6OY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2881506-1494156878-2917.jpeg.jpg",
+      "catno": "FFCD 008",
+      "community": {
+        "have": 33,
+        "want": 18
+      },
+      "genre": [
+        "Rock"
+      ],
+      "title": "Nirvana - In Extremis - Nirvana Remixed",
+      "resource_url": "https://api.discogs.com/masters/762662",
+      "master_id": 762662,
+      "type": "master",
+      "id": 762662
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 0,
+        "want": 1
+      },
+      "catno": "EDM015",
+      "year": "2012",
+      "id": 854925,
+      "style": [
+        "Tech House"
+      ],
+      "thumb": "https://img.discogs.com/6H6Wj9WvA4NfPlzwrBgJA200RZg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7188132-1435698704-7792.gif.jpg",
+      "title": "Nirvana - Smells Like Teen Spirit (David Binoise Remixes) ",
+      "label": [
+        "Edmoon Records"
+      ],
+      "master_id": 854925,
+      "type": "master",
+      "format": [
+        "File",
+        "MP3",
+        "Unofficial Release"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/854925",
+      "genre": [
+        "Electronic"
+      ],
+      "country": "Ecuador",
+      "uri": "/Nirvana-Smells-Like-Teen-Spirit-David-Binoise-Remixes-/master/854925",
+      "cover_image": "https://img.discogs.com/5b_M-ldt0P7UZhpQDIAxfYXIt24=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7188132-1435698704-7792.gif.jpg",
+      "resource_url": "https://api.discogs.com/masters/854925"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 67,
+        "want": 26
+      },
+      "catno": "PARA019LP",
+      "year": "2016",
+      "id": 1084032,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/PDBTykn7ofIRmqQzf2o6F5Ozcrw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9219553-1476884158-9011.jpeg.jpg",
+      "title": "Nirvana - Love Us Loudly",
+      "label": [
+        "Parachute Recording Company",
+        "Parachute Recording Company",
+        "KAOS Radio",
+        "Pat O'Brien Pavilion",
+        "GZ Media"
+      ],
+      "master_id": 1084032,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "All Media",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "803341505445",
+        "146187E1/A",
+        "146187E2/A",
+        "146187E3/A",
+        "146187E4/A"
+      ],
+      "master_url": "https://api.discogs.com/masters/1084032",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Europe",
+      "uri": "/Nirvana-Love-Us-Loudly/master/1084032",
+      "cover_image": "https://img.discogs.com/Ewkc6OyKUKi6TdMKkXkMhZzCZZ8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9219553-1476884158-9011.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/1084032"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 24,
+        "want": 38
+      },
+      "catno": "WIP-6045",
+      "year": "1968",
+      "id": 882697,
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "thumb": "https://img.discogs.com/lHz5wxGe9Ace4nU2KgxFiItIBiE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1989505-1498765762-7048.jpeg.jpg",
+      "title": "Nirvana (2) - All Of Us",
+      "label": [
+        "Island Records",
+        "20th Century Fox Music",
+        "Blue Mountain Music"
+      ],
+      "master_id": 882697,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/882697",
+      "genre": [
+        "Rock"
+      ],
+      "country": "UK",
+      "uri": "/Nirvana-All-Of-Us/master/882697",
+      "cover_image": "https://img.discogs.com/-It0hSWe7mwQXlkn4zf6XCi7ghc=/fit-in/510x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1989505-1498765762-7048.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/882697"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 141,
+        "want": 78
+      },
+      "catno": "NIRVBOXCDP1",
+      "year": "2004",
+      "id": 311569,
+      "style": [
+        "Alternative Rock",
+        "Folk Rock",
+        "Lo-Fi",
+        "Acoustic",
+        "Stoner Rock"
+      ],
+      "thumb": "https://img.discogs.com/d4Jy_tNSKGC7Qi4htggNksFdZzo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1054939-1416322271-5830.jpeg.jpg",
+      "title": "Nirvana - Selections From With The Lights Out",
+      "label": [
+        "Geffen Records",
+        "Geffen Records",
+        "Geffen Records"
+      ],
+      "master_id": 311569,
+      "type": "master",
+      "format": [
+        "CD",
+        "Promo",
+        "Sampler"
+      ],
+      "barcode": [
+        "NIRVBOXCDP1 01",
+        "MADE IN UK",
+        "BIEM/SABAM",
+        "LC 07266",
+        "IFPI L136",
+        "IFPI 0451"
+      ],
+      "master_url": "https://api.discogs.com/masters/311569",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Europe",
+      "uri": "/Nirvana-Selections-From-With-The-Lights-Out/master/311569",
+      "cover_image": "https://img.discogs.com/USmEv_9nDHD1JGa9938y44UZAE4=/fit-in/406x412/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1054939-1416322271-5830.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/311569"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 36,
+        "want": 13
+      },
+      "catno": "BC 045/2",
+      "year": "1994",
+      "id": 556793,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/3d3VVcorBjNY2TVIposeAOFROKo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3283910-1400741806-4073.jpeg.jpg",
+      "title": "Nirvana - Pissing In Action",
+      "label": [
+        "Baby Capone",
+        "Future Disc S.r.l.",
+        "Blind Pig",
+        "Pat O'Brien Pavilion",
+        "The Reading Festival"
+      ],
+      "master_id": 556793,
+      "type": "master",
+      "format": [
+        "CD",
+        "Compilation",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "S.I.A.E."
+      ],
+      "master_url": "https://api.discogs.com/masters/556793",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Italy",
+      "uri": "/Nirvana-Pissing-In-Action/master/556793",
+      "cover_image": "https://img.discogs.com/1yWr8Xe-SreM1ePttqoCEcD1C8Q=/fit-in/600x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3283910-1400741806-4073.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/556793"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 169,
+        "want": 70
+      },
+      "catno": "QR65",
+      "year": "1992",
+      "id": 540803,
+      "style": [
+        "Alternative Rock",
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/ONKW8Z3bTEF1cIsi5wCeHzhbw9c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1149827-1253179666.jpeg.jpg",
+      "title": "Nirvana - Rags To Riches",
+      "label": [
+        "Quality Recordings"
+      ],
+      "master_id": 540803,
+      "type": "master",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "33 \u2153 RPM",
+        "Unofficial Release"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/540803",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Europe",
+      "uri": "/Nirvana-Rags-To-Riches/master/540803",
+      "cover_image": "https://img.discogs.com/Ww4DvlPkvV0IGlmfLJlIzX6j6Zc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1149827-1253179666.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/540803"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 10,
+        "want": 4
+      },
+      "catno": "AS 17",
+      "year": "2004",
+      "id": 391763,
+      "style": [
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/XqGSXH-VKZt2Nv5hu8F7p5QgqIk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6370923-1417583691-5016.jpeg.jpg",
+      "title": "Nirvana - Celebration ",
+      "label": [
+        "Apocalypse Sound",
+        "Paradiso Amsterdam",
+        "Saturday Night Live"
+      ],
+      "master_id": 391763,
+      "type": "master",
+      "format": [
+        "DVD",
+        "DVD-Video",
+        "NTSC",
+        "Unofficial Release"
+      ],
+      "barcode": [
+        "18052004017"
+      ],
+      "master_url": "https://api.discogs.com/masters/391763",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Italy",
+      "uri": "/Nirvana-Celebration-/master/391763",
+      "cover_image": "https://img.discogs.com/azsYDgP8epgHg2k62Hk5p3Mbd5g=/fit-in/454x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6370923-1417583691-5016.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/391763"
+    },
+    {
+      "user_data": {
+        "in_collection": false,
+        "in_wantlist": false
+      },
+      "community": {
+        "have": 50,
+        "want": 91
+      },
+      "catno": "COB 001/8",
+      "year": "1994",
+      "id": 391907,
+      "style": [
+        "Hard Rock",
+        "Grunge"
+      ],
+      "thumb": "https://img.discogs.com/Fc1dXG99Yu0eBHeVaYyoNbduYIo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2644318-1294692044.jpeg.jpg",
+      "title": "Nirvana - Heart-Shaped Box",
+      "label": [
+        "Crown Of Britannia"
+      ],
+      "master_id": 391907,
+      "type": "master",
+      "format": [
+        "CD",
+        "Unofficial Release",
+        "Box Set",
+        "Limited Edition"
+      ],
+      "barcode": [],
+      "master_url": "https://api.discogs.com/masters/391907",
+      "genre": [
+        "Rock"
+      ],
+      "country": "Italy",
+      "uri": "/Nirvana-Heart-Shaped-Box/master/391907",
+      "cover_image": "https://img.discogs.com/BDzEP-XaEzYO89pwvCpqKp6XP3w=/fit-in/510x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2644318-1294692044.jpeg.jpg",
+      "resource_url": "https://api.discogs.com/masters/391907"
+    }
+  ]
+}

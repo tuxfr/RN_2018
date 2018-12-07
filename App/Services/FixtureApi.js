@@ -11,7 +11,7 @@ export default {
   searchOne: (searchCriteria) => {
     return {
       ok: true,
-      data: require('../Fixtures/search-artist-nirvana-nervermind')
+      data: require('../Fixtures/search-item-nirvana-nevermind')
     }
   },
 

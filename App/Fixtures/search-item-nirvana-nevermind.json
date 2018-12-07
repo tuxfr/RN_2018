@@ -1,0 +1,57 @@
+{
+  "user_data": {
+    "in_collection": false,
+    "in_wantlist": false
+  },
+  "community": {
+    "have": 80525,
+    "want": 147719
+  },
+  "catno": "DGCD-24425",
+  "year": "1991",
+  "id": 13814,
+  "style": [
+    "Grunge"
+  ],
+  "thumb": "https://img.discogs.com/xuyvsRVdjY3aiJnHF8BkejxbcTg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-367084-1263095553.jpeg.jpg",
+  "title": "Nirvana - Nevermind",
+  "label": [
+    "DGC",
+    "Sub Pop",
+    "Uni Distribution Corp.",
+    "Uni Distribution Corp.",
+    "The David Geffen Company",
+    "The David Geffen Company",
+    "Digital Audio Disc Corp.",
+    "Sound City Studios",
+    "Scream Studios",
+    "Masterdisk",
+    "DADC"
+  ],
+  "master_id": 13814,
+  "type": "master",
+  "format": [
+    "CD",
+    "Album",
+    "Mispress"
+  ],
+  "barcode": [
+    "7 2064-24425-2 4",
+    "720642442524",
+    "DIDX-011927 3",
+    "DIDX-011927 6",
+    "Made In USA - Digital Audio Disc Corp.",
+    "DIDX-011927 5",
+    "[DADC 'D' logo]",
+    "DIDX 011927",
+    "AAD"
+  ],
+  "master_url": "https://api.discogs.com/masters/13814",
+  "genre": [
+    "Rock"
+  ],
+  "country": "US",
+  "uri": "/Nirvana-Nevermind/master/13814",
+  "cover_image": "https://img.discogs.com/UoDAnoi3Cbp_JvOrz4CRgZBBSfg=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367084-1263095553.jpeg.jpg",
+  "resource_url": "https://api.discogs.com/masters/13814"
+}

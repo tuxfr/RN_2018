@@ -9,7 +9,6 @@ import {
 import SearchList from '../Components/SearchList'
 import FixtureAPI from '../Services/FixtureApi'
 
-
 // Styles
 import styles from './Styles/SearchListScreenStyle'
 
@@ -18,13 +17,11 @@ const apiSearchResults = api.search({
   artist: 'nirvana',
 })
 
-
 class SearchListScreen extends Component {
 
   constructor (props) {
     super(props)
-    this.state = {
-    }
+    this.state = {}
   }
 
   componentDidMount () {
@@ -32,7 +29,7 @@ class SearchListScreen extends Component {
   }
 
   render () {
-    const { searchResults } = this.props
+    const {searchResults} = this.props
     return (
       <Content padder>
         <SearchList
@@ -45,7 +42,7 @@ class SearchListScreen extends Component {
 }
 
 const mapDispatchToProps = (dispatch) => {
-  const { data: { results } } = apiSearchResults
+  const {data: {results}} = apiSearchResults
   return {
     loadResults: () => dispatch(SearchActionCreators.setSearchResults(results))
   }

@@ -4,11 +4,17 @@ import configureStore from './CreateStore'
 import rootSaga from '../Sagas/'
 import ReduxPersist from '../Config/ReduxPersist'
 
+import { reducer as githubReducer } from './GithubRedux'
+import { reducer as navReducer } from './NavigationRedux'
+import { reducer as searchReducer } from './SearchRedux'
+import { reducer as searchEngineReducer } from './SearchEngineRedux'
+
 /* ------------- Assemble The Reducers ------------- */
 export const reducers = combineReducers({
-  nav: require('./NavigationRedux').reducer,
-  github: require('./GithubRedux').reducer,
-  search: require('./SearchRedux').reducer
+  nav: navReducer,
+  github: githubReducer,
+  search: searchReducer,
+  searchEngine: searchEngineReducer,
 })
 
 export default () => {
@@ -19,7 +25,7 @@ export default () => {
     finalReducers = persistReducer(persistConfig, reducers)
   }
 
-  let { store, sagasManager, sagaMiddleware } = configureStore(finalReducers, rootSaga)
+  let {store, sagasManager, sagaMiddleware} = configureStore(finalReducers, rootSaga)
 
   if (module.hot) {
     module.hot.accept(() => {

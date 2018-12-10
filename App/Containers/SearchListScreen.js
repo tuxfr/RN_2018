@@ -1,7 +1,14 @@
 import React, { Component } from 'react'
 import { Content } from 'native-base'
+import { connect } from 'react-redux'
+import {
+  ActionCreators as SearchActionCreators,
+  Selectors as SearchSelectors,
+} from '../Redux/SearchEngineRedux'
+
 import SearchList from '../Components/SearchList'
 import FixtureAPI from '../Services/FixtureApi'
+
 
 // Styles
 import styles from './Styles/SearchListScreenStyle'
@@ -11,24 +18,21 @@ const apiSearchResults = api.search({
   artist: 'nirvana',
 })
 
+
 class SearchListScreen extends Component {
 
   constructor (props) {
     super(props)
     this.state = {
-      searchResults: [],
     }
   }
 
   componentDidMount () {
-    const { data: { results } } = apiSearchResults
-    this.setState({
-      searchResults: results,
-    })
+    this.props.loadResults()
   }
 
   render () {
-    const { searchResults } = this.state
+    const { searchResults } = this.props
     return (
       <Content padder>
         <SearchList
@@ -40,4 +44,17 @@ class SearchListScreen extends Component {
   }
 }
 
-export default SearchListScreen
+const mapDispatchToProps = (dispatch) => {
+  const { data: { results } } = apiSearchResults
+  return {
+    loadResults: () => dispatch(SearchActionCreators.setSearchResults(results))
+  }
+}
+
+const mapStateToProps = (state) => {
+  return {
+    searchResults: SearchSelectors.getSearchResults(state),
+  }
+}
+
+export default connect(mapStateToProps, mapDispatchToProps)(SearchListScreen)

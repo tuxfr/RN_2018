@@ -14,9 +14,9 @@ import SearchListScreen from './SearchListScreen'
 class RootContainer extends Component {
   componentDidMount () {
     // if redux persist is not active fire startup action
-   /* if (!ReduxPersist.active) {
+    if (!ReduxPersist.active) {
       this.props.startup()
-    }*/
+    }
   }
 
   render () {
@@ -35,5 +35,4 @@ const mapDispatchToProps = (dispatch) => ({
   startup: () => dispatch(StartupActions.startup())
 })
 
-//export default connect(null, mapDispatchToProps)(RootContainer)
-export default RootContainer
+export default connect(null, mapDispatchToProps)(RootContainer)

@@ -1,3 +1,27 @@
+/* TP redux/saga : créer les actions suivantes
+
+export const initialState = {
+  collection: {
+    fetching: false,
+    data: null,
+    error: null,
+  }
+}
+
+// Action Types
+
+const SEARCH_REQUEST = 'SEARCH_REQUEST'
+const SEARCH_SUCCESS = 'SEARCH_SUCCESS'
+const SEARCH_ERROR = 'SEARCH_ERROR'
+
+export const ActionTypes = {
+  SEARCH_REQUEST,
+  SEARCH_SUCCESS,
+  SEARCH_ERROR,
+}
+
+*/
+
 // Initial state
 export const initialState = {
   searchResults: []

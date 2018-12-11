@@ -1,4 +1,6 @@
 import React, { Component } from 'react'
+import { View } from 'react-native'
+
 import PropTypes from 'prop-types'
 import {
   View,
@@ -57,22 +59,7 @@ export default class SearchListItem extends Component {
     const { title, thumbUrl, year, } = this.props
     const { genre, style, } = this.state
     return (
-      <Card>
-        <CardItem>
-          <Left>
-            {thumbUrl && <Thumbnail square source={{
-              uri: thumbUrl
-            }}/>}
-            <Body>
-            <Text>{title}</Text>
-            <View style={styles.titleContainer}>
-              <Left><Text note>{genre} {!isEmpty(style) && `/ ${style}`}</Text></Left>
-              <Right><Text note style={styles.year}>{year}</Text></Right>
-            </View>
-            </Body>
-          </Left>
-        </CardItem>
-      </Card>
+      <View/>
     )
   }
 }

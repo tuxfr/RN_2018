@@ -1,11 +1,12 @@
 import '../Config'
 import DebugConfig from '../Config/DebugConfig'
 import React, { Component } from 'react'
+import { Provider } from 'react-redux'
 import RootContainer from './RootContainer'
 import createStore from '../Redux'
 
 // create our store
-const store = createStore()
+//const store = createStore()
 
 /**
  * Provides an entry point into our application.  Both index.ios.js and index.android.js
@@ -19,8 +20,13 @@ const store = createStore()
 class App extends Component {
   render () {
     return (
-      <RootContainer/>
+        <RootContainer />
     )
+    /*return (
+      <Provider store={store}>
+        <RootContainer />
+      </Provider>
+    )*/
   }
 }
 

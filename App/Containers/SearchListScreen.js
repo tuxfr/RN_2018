@@ -45,6 +45,7 @@ const mapDispatchToProps = (dispatch) => {
   const {data: {results}} = apiSearchResults
   return {
     loadResults: () => dispatch(SearchActionCreators.setSearchResults(results))
+    // TODO declare Search action : searchRequest
   }
 }
 

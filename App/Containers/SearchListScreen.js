@@ -7,6 +7,7 @@ import {
 } from '../Redux/SearchEngineRedux'
 
 import SearchList from '../Components/SearchList'
+import SearchForm from '../Components/SearchForm'
 
 // Styles
 import styles from './Styles/SearchListScreenStyle'
@@ -19,7 +20,6 @@ class SearchListScreen extends Component {
   }
 
   componentDidMount () {
-    this.props.loadResults()
   }
 
   _onItemSelect = (item) => {
@@ -28,10 +28,18 @@ class SearchListScreen extends Component {
     navigation.navigate('SearchListItemDetailScreen', {})
   }
 
+  _onSubmit = (values) => {
+    this.props.loadResults({
+      artist: 'radiohead',
+      per_page: 100,
+    })
+  }
+
   render () {
     const {searchResults} = this.props
     return (
       <Content padder>
+        <SearchForm onSubmit={this._onSubmit}/>
         <SearchList
           results={searchResults}
           emptyMessage={'aucun résultat'}
@@ -44,10 +52,7 @@ class SearchListScreen extends Component {
 
 const mapDispatchToProps = (dispatch) => {
   return {
-    loadResults: () => dispatch(SearchActionCreators.searchRequest({
-      artist: 'radiohead',
-      per_page: 100,
-    })),
+    loadResults: (searchCriteria) => dispatch(SearchActionCreators.searchRequest(searchCriteria)),
     setSelectedItem: (item) => dispatch(SearchActionCreators.setSelectedItem(item)),
   }
 }

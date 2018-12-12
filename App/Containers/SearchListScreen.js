@@ -23,9 +23,7 @@ class SearchListScreen extends Component {
   }
 
   _onItemSelect = (item) => {
-    const {setSelectedItem, navigation,} = this.props
-    setSelectedItem(item)
-    navigation.navigate('SearchListItemDetailScreen', {})
+    // FIXME
   }
 
   render () {
@@ -35,7 +33,7 @@ class SearchListScreen extends Component {
         <SearchList
           results={searchResults}
           emptyMessage={'aucun résultat'}
-          onItemSelect={this._onItemSelect}
+          // onItemSelect={this._onItemSelect}
         />
       </Content>
     )

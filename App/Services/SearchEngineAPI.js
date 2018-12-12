@@ -14,9 +14,29 @@ const create = () => {
   //     }
   //   })
 
-  const search = () => {
+  const search = (searchParams) => {
+
     return new Promise((resolve, reject) => {
-      // TODO
+      axios.get('/search', {
+        params: {
+          ...searchParams,
+          token: Config.token,
+        }
+      })
+        .then((response) => {
+          resolve({
+            ok: true,
+            status: response.status,
+            data: response.data,
+          })
+        })
+        .catch((error) => {
+          resolve({
+            ok: false,
+            status: error.response.status,
+            data: error.response.data,
+          })
+        })
     })
   }
 

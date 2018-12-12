@@ -7,15 +7,10 @@ import {
 } from '../Redux/SearchEngineRedux'
 
 import SearchList from '../Components/SearchList'
-import FixtureAPI from '../Services/FixtureApi'
 
 // Styles
 import styles from './Styles/SearchListScreenStyle'
 
-const api = FixtureAPI
-const apiSearchResults = api.search({
-  artist: 'nirvana',
-})
 
 class SearchListScreen extends Component {
 
@@ -41,11 +36,13 @@ class SearchListScreen extends Component {
   }
 }
 
+
 const mapDispatchToProps = (dispatch) => {
-  const {data: {results}} = apiSearchResults
   return {
-    loadResults: () => dispatch(SearchActionCreators.setSearchResults(results))
-    // TODO declare Search action : searchRequest
+    loadResults: () => dispatch(SearchActionCreators.searchRequest({
+      artist: 'nirvana',
+      per_page: 100,
+    }))
   }
 }
 

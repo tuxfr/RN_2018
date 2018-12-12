@@ -2,21 +2,19 @@ import { takeLatest, all } from 'redux-saga/effects'
 import API from '../Services/Api'
 import FixtureAPI from '../Services/FixtureApi'
 import DebugConfig from '../Config/DebugConfig'
-// TODO import Search API
+import SearchEngineAPI from '../Services/SearchEngineAPI'
 
 /* ------------- Types ------------- */
 
 import { StartupTypes } from '../Redux/StartupRedux'
 import { GithubTypes } from '../Redux/GithubRedux'
-
-// TODO import Redux Search Types
+import { ActionTypes as SearchActionTypes } from '../Redux/SearchEngineRedux'
 
 /* ------------- Sagas ------------- */
 
 import { startup } from './StartupSagas'
 import { getUserAvatar } from './GithubSagas'
-
-// TODO import Search Saga
+import { search } from './SearchEngineSagas'
 
 /* ------------- API ------------- */
 
@@ -24,8 +22,7 @@ import { getUserAvatar } from './GithubSagas'
 // to the sagas which need it.
 const api = DebugConfig.useFixtures ? FixtureAPI : API.create()
 
-// TODO create Search API
-
+const searchApi = SearchEngineAPI.create()
 
 /* ------------- Connect Types To Sagas ------------- */
 
@@ -34,7 +31,7 @@ export default function * root () {
     // some sagas only receive an action
     takeLatest(StartupTypes.STARTUP, startup),
 
-    // TODO connect Search Types with Saga
+    takeLatest(SearchActionTypes.SEARCH_REQUEST, search, searchApi),
 
     // some sagas receive extra parameters in addition to an action
     takeLatest(GithubTypes.USER_REQUEST, getUserAvatar, api)

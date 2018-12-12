@@ -1,15 +1,11 @@
-/* TP redux/saga : créer les actions suivantes
-
+// Initial state
 export const initialState = {
-  collection: {
-    fetching: false,
-    data: null,
-    error: null,
-  }
+  fetching: false,
+  searchResults: null,
+  error: null,
 }
 
 // Action Types
-
 const SEARCH_REQUEST = 'SEARCH_REQUEST'
 const SEARCH_SUCCESS = 'SEARCH_SUCCESS'
 const SEARCH_ERROR = 'SEARCH_ERROR'
@@ -20,30 +16,33 @@ export const ActionTypes = {
   SEARCH_ERROR,
 }
 
-*/
-
-// Initial state
-export const initialState = {
-  searchResults: []
-}
-
-// Action Types
-const SET_SEARCH_RESULTS = 'SET_SEARCH_RESULTS'
-
-export const ActionTypes = {
-  SET_SEARCH_RESULTS,
-}
-
 // Action Creators
-const setSearchResults = (results) => {
-  return ({
-    type: SET_SEARCH_RESULTS,
-    payload: results,
-  })
+
+const searchRequest = (searchParams) => {
+  return {
+    type: SEARCH_REQUEST,
+    payload: searchParams,
+  }
+}
+
+const searchSuccess = (data) => {
+  return {
+    type: SEARCH_SUCCESS,
+    payload: data,
+  }
+}
+
+const searchError = (error) => {
+  return {
+    type: SEARCH_ERROR,
+    payload: error
+  }
 }
 
 const ActionCreators = {
-  setSearchResults,
+  searchRequest,
+  searchSuccess,
+  searchError,
 }
 
 // Selectors
@@ -58,18 +57,32 @@ const Selectors = {
 // Reducer
 const reducer = (state = initialState, action) => {
   switch (action.type) {
-    case SET_SEARCH_RESULTS:
+    case SEARCH_REQUEST:
       return {
         ...state,
-        ...{
-          searchResults: action.payload,
-        },
+        fetching: true,
+        searchResults: null,
+        error: null,
+      }
+    case SEARCH_SUCCESS:
+      return {
+        ...state,
+        fetching: false,
+        searchResults: action.payload,
+        error: null,
+      }
+
+    case SEARCH_ERROR:
+      return {
+        ...state,
+        fetching: false,
+        searchResults: null,
+        error: action.payload,
       }
     default:
       return state
   }
 }
-
 export {
   ActionCreators,
   Selectors,

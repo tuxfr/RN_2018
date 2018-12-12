@@ -40,7 +40,7 @@ class SearchListScreen extends Component {
 const mapDispatchToProps = (dispatch) => {
   return {
     loadResults: () => dispatch(SearchActionCreators.searchRequest({
-      artist: 'nirvana',
+      artist: 'radiohead',
       per_page: 100,
     }))
   }

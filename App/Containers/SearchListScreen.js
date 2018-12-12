@@ -14,7 +14,8 @@ import styles from './Styles/SearchListScreenStyle'
 
 const api = FixtureAPI
 const apiSearchResults = api.search({
-  artist: 'nirvana',
+  artist: 'radiohead',
+  per_page: 50,
 })
 
 class SearchListScreen extends Component {
@@ -44,8 +45,11 @@ class SearchListScreen extends Component {
 const mapDispatchToProps = (dispatch) => {
   const {data: {results}} = apiSearchResults
   return {
-    loadResults: () => dispatch(SearchActionCreators.setSearchResults(results))
-    // TODO declare Search action : searchRequest
+    // loadResults: () => dispatch(SearchActionCreators.setSearchResults(results)),
+    loadResults: () => dispatch({
+      type: 'FIXME'
+      // FIXME declare Search action : searchRequest
+    }),
   }
 }
 

@@ -11,7 +11,6 @@ import SearchList from '../Components/SearchList'
 // Styles
 import styles from './Styles/SearchListScreenStyle'
 
-
 class SearchListScreen extends Component {
 
   constructor (props) {
@@ -23,6 +22,12 @@ class SearchListScreen extends Component {
     this.props.loadResults()
   }
 
+  _onItemSelect = (item) => {
+    const {setSelectedItem} = this.props
+    setSelectedItem(item)
+    this.props.navigation.navigate('SearchListItemDetailScreen', {})
+  }
+
   render () {
     const {searchResults} = this.props
     return (
@@ -30,19 +35,20 @@ class SearchListScreen extends Component {
         <SearchList
           results={searchResults}
           emptyMessage={'aucun résultat'}
+          onItemSelect={this._onItemSelect}
         />
       </Content>
     )
   }
 }
 
-
 const mapDispatchToProps = (dispatch) => {
   return {
     loadResults: () => dispatch(SearchActionCreators.searchRequest({
       artist: 'radiohead',
       per_page: 100,
-    }))
+    })),
+    setSelectedItem: (item) => dispatch(SearchActionCreators.setSelectedItem(item)),
   }
 }
 

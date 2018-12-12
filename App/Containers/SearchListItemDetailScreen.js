@@ -45,7 +45,7 @@ const mapDispatchToProps = (dispatch) => {
 
 const mapStateToProps = (state) => {
   return {
-    searchResults: SearchSelectors.getSearchResults(state),
+    selectedItem: SearchSelectors.getSeletedItem(state),
   }
 }
 

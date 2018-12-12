@@ -2,15 +2,19 @@ import { combineReducers } from 'redux'
 import { persistReducer } from 'redux-persist'
 import configureStore from './CreateStore'
 import rootSaga from '../Sagas/'
+import ReduxPersist from '../Config/ReduxPersist'
+
 import { reducer as githubReducer } from './GithubRedux'
 import { reducer as navReducer } from './NavigationRedux'
 import { reducer as searchReducer } from './SearchRedux'
+import { reducer as searchEngineReducer } from './SearchEngineRedux'
 
 /* ------------- Assemble The Reducers ------------- */
 export const reducers = combineReducers({
   nav: navReducer,
   github: githubReducer,
   search: searchReducer,
+  searchEngine: searchEngineReducer,
 })
 
 export default () => {

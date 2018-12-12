@@ -23,9 +23,9 @@ class SearchListScreen extends Component {
   }
 
   _onItemSelect = (item) => {
-    const {setSelectedItem} = this.props
+    const {setSelectedItem, navigation,} = this.props
     setSelectedItem(item)
-    this.props.navigation.navigate('SearchListItemDetailScreen', {})
+    navigation.navigate('SearchListItemDetailScreen', {})
   }
 
   render () {

@@ -54,13 +54,13 @@ export default class SearchListItem extends Component {
   }
 
   render () {
-    const { title, thumbUrl, year, } = this.props
+    const { title = '', thumbUrl, year, } = this.props
     const { genre, style, } = this.state
     return (
       <Card>
         <CardItem>
           <Left>
-            {thumbUrl && <Thumbnail square source={{
+            {!isEmpty(thumbUrl) && <Thumbnail square source={{
               uri: thumbUrl
             }}/>}
             <Body>

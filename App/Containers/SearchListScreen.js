@@ -5,6 +5,7 @@ import {
   ActionCreators as SearchActionCreators,
   Selectors as SearchSelectors,
 } from '../Redux/SearchEngineRedux'
+import { get } from 'lodash'
 
 import SearchList from '../Components/SearchList'
 import SearchForm from '../Components/SearchForm'
@@ -36,10 +37,14 @@ class SearchListScreen extends Component {
   }
 
   render () {
-    const {searchResults} = this.props
+    const {searchResults, artist, perPage} = this.props
     return (
       <Content padder>
-        <SearchForm onSubmit={this._onSubmit}/>
+        <SearchForm
+          onSubmit={this._onSubmit}
+          artist={artist}
+          perPage={perPage}
+        />
         <SearchList
           results={searchResults}
           emptyMessage={'aucun résultat'}
@@ -58,8 +63,11 @@ const mapDispatchToProps = (dispatch) => {
 }
 
 const mapStateToProps = (state) => {
+  const {searchEngineForm} = state.form
   return {
     searchResults: SearchSelectors.getSearchResults(state),
+    artist: get(searchEngineForm, 'values.artist', ''),
+    perPage: get(searchEngineForm, 'values.perPage', ''),
   }
 }
 

@@ -18,6 +18,8 @@ class SearchForm extends Component {
 
   static propTypes = {
     onSubmit: PropTypes.func.isRequired,
+    artist: PropTypes.string,
+    perPage: PropTypes.number,
   }
 
   _renderInput = ({
@@ -31,7 +33,6 @@ class SearchForm extends Component {
     if (touched && error !== undefined) {
       hasError = true
     }
-
     return (
       <Content>
         <Item
@@ -42,6 +43,7 @@ class SearchForm extends Component {
           <Input
             {...input}
             keyboardType={keyboardType}
+            onChangeText={(text) => input.onChange(text)}
           />
           {
             /*
@@ -60,18 +62,21 @@ class SearchForm extends Component {
   }
 
   render () {
+        const {artist, perPage} = this.props
     return (
       <Form>
         <Field
           name="artist"
           component={this._renderInput}
           label="Artiste"
-          keyboardType="numeric"
+          value={artist}
         />
         <Field
           name="perPage"
           component={this._renderInput}
           label="Nombre d'occurences"
+          keyboardType="numeric"
+          value={perPage}
         />
 
         <Content padder>
@@ -99,6 +104,6 @@ const validate = (values) => {
 }
 
 export default reduxForm({
-  form: 'searchEngine',
+  form: 'searchEngineForm',
   validate,
 })(SearchForm)
